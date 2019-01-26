@@ -1,0 +1,1141 @@
+DEBUG - DEALING
+DEBUG - Player = Frank   Hand Strength = 69.92   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 86.56   Mininimum Bet = 5   Bet = 10
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 32.48   Mininimum Bet = 20   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz's bet strategy: hand_str=65.12, to_call=20, num_opps=3, chips=1000, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 69.92   Mininimum Bet = 10   Bet = 10
+INFO - Frank calls.
+DEBUG - ON TABLE: ['04C', '07S', '02S']
+DEBUG - Player = Frank   Hand Strength = 70.39   Mininimum Bet = 0   Bet = 98
+INFO - Frank bets.
+DEBUG - Player = Dennis   Hand Strength = 53.28   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - megaHertz's bet strategy: hand_str=36.62, to_call=10, num_opps=2, chips=980, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['04C', '07S', '02S', '14D']
+DEBUG - Player = Frank   Hand Strength = 58.7   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - megaHertz's bet strategy: hand_str=36.67, to_call=0, num_opps=2, chips=970, in_pot=30
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['04C', '07S', '02S', '14D', '05S']
+DEBUG - Player = Frank   Hand Strength = 34.81   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - megaHertz's bet strategy: hand_str=18.02, to_call=0, num_opps=2, chips=970, in_pot=30
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Frank   Hand: ['13C', '02C'], Has: [2, 2, 14, 13, 7]
+DEBUG - Player: megaHertz   Hand: ['10D', '12C'], Has: [1, 14, 12, 10, 7, 5]
+DEBUG - Frank gets 50
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=66.08, to_call=0, num_opps=4, chips=960, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 20.32   Mininimum Bet = 5   Bet = 0
+DEBUG - Frank folds.
+DEBUG - Player = Dennis   Hand Strength = 27.68   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Player = Franquito   Hand Strength = 48.16   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz gets 5
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 46.24   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=51.04, to_call=5, num_opps=4, chips=970, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 2.72   Mininimum Bet = 10   Bet = 0
+DEBUG - Frank folds.
+DEBUG - Player = Dennis   Hand Strength = 83.68   Mininimum Bet = 10   Bet = 10
+INFO - Dennis calls.
+DEBUG - ON TABLE: ['05C', '05S', '06S']
+DEBUG - Player = Franquito   Hand Strength = 31.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=34.45, to_call=0, num_opps=3, chips=965, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Dennis   Hand Strength = 64.87   Mininimum Bet = 0   Bet = 48
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 31.19   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz's bet strategy: hand_str=34.45, to_call=10, num_opps=2, chips=965, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['05C', '05S', '06S', '09S']
+DEBUG - megaHertz's bet strategy: hand_str=24.76, to_call=0, num_opps=2, chips=955, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Dennis   Hand Strength = 52.46   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['05C', '05S', '06S', '09S', '06D']
+DEBUG - megaHertz's bet strategy: hand_str=29.98, to_call=0, num_opps=2, chips=955, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Dennis   Hand Strength = 62.77   Mininimum Bet = 0   Bet = 48
+INFO - Dennis bets.
+DEBUG - megaHertz's bet strategy: hand_str=29.98, to_call=20, num_opps=2, chips=955, in_pot=20
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['07C', '11S'], Has: [3, 6, 5, 11]
+DEBUG - Player: Dennis   Hand: ['02S', '14C'], Has: [3, 6, 5, 14]
+DEBUG - Dennis gets 50
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 9.44   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 99.04   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=2.72, to_call=20, num_opps=4, chips=935, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 75.68   Mininimum Bet = 20   Bet = 20
+INFO - Frank calls.
+DEBUG - Player = Dennis   Hand Strength = 9.44   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - ON TABLE: ['09S', '02C', '04C']
+DEBUG - Player = Franquito   Hand Strength = 95.65   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=64.6, to_call=0, num_opps=3, chips=915, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 45.31   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - ON TABLE: ['09S', '02C', '04C', '08D']
+DEBUG - Player = Franquito   Hand Strength = 92.63   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=54.16, to_call=0, num_opps=3, chips=915, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 81.57   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - ON TABLE: ['09S', '02C', '04C', '08D', '10C']
+DEBUG - Player = Franquito   Hand Strength = 80.44   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=39.46, to_call=0, num_opps=3, chips=915, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 61.88   Mininimum Bet = 0   Bet = 51
+INFO - Frank bets.
+DEBUG - Player = Franquito   Hand Strength = 80.44   Mininimum Bet = 20   Bet = 40
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=39.46, to_call=40, num_opps=3, chips=915, in_pot=20
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 61.88   Mininimum Bet = 20   Bet = 20
+INFO - Frank calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['12D', '12S'], Has: [2, 12, 10, 9, 8]
+DEBUG - Player: megaHertz   Hand: ['03D', '02D'], Has: [2, 2, 10, 9, 8]
+DEBUG - Player: Frank   Hand: ['08S', '13S'], Has: [2, 8, 13, 10, 9]
+DEBUG - Franquito gets 130
+DEBUG - DEALING
+DEBUG - Player = Frank   Hand Strength = 58.4   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 63.2   Mininimum Bet = 5   Bet = 5
+INFO - Dennis calls.
+DEBUG - Player = Franquito   Hand Strength = 17.12   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz's bet strategy: hand_str=63.2, to_call=10, num_opps=3, chips=875, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02C', '14S', '02S']
+DEBUG - Player = Frank   Hand Strength = 52.2   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 57.63   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - megaHertz's bet strategy: hand_str=57.63, to_call=0, num_opps=3, chips=865, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02C', '14S', '02S', '13S']
+DEBUG - Player = Frank   Hand Strength = 59.26   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 59.26   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - megaHertz's bet strategy: hand_str=59.26, to_call=0, num_opps=3, chips=865, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02C', '14S', '02S', '13S', '10H']
+DEBUG - Player = Frank   Hand Strength = 48.25   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 48.25   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - megaHertz's bet strategy: hand_str=48.25, to_call=0, num_opps=3, chips=865, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Frank   Hand: ['03H', '12D'], Has: [2, 2, 14, 13, 12]
+DEBUG - Player: Dennis   Hand: ['12C', '08C'], Has: [2, 2, 14, 13, 12]
+DEBUG - Player: megaHertz   Hand: ['08D', '12H'], Has: [2, 2, 14, 13, 12]
+DEBUG - Frank gets 6
+DEBUG - Dennis gets 4
+DEBUG - megaHertz gets 0
+DEBUG - megaHertz gets 0
+DEBUG - Dennis gets 0
+DEBUG - megaHertz gets 0
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=65.12, to_call=0, num_opps=4, chips=858, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 79.52   Mininimum Bet = 5   Bet = 5
+INFO - Frank calls.
+DEBUG - Player = Dennis   Hand Strength = 47.2   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Player = Franquito   Hand Strength = 97.12   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=65.12, to_call=10, num_opps=3, chips=858, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 79.52   Mininimum Bet = 10   Bet = 10
+INFO - Frank calls.
+DEBUG - ON TABLE: ['14C', '03C', '06S']
+DEBUG - megaHertz's bet strategy: hand_str=47.49, to_call=0, num_opps=3, chips=848, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 60.89   Mininimum Bet = 0   Bet = 48
+INFO - Frank bets.
+DEBUG - Player = Franquito   Hand Strength = 83.7   Mininimum Bet = 10   Bet = 30
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=47.49, to_call=20, num_opps=3, chips=848, in_pot=20
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 60.89   Mininimum Bet = 10   Bet = 10
+INFO - Frank calls.
+DEBUG - ON TABLE: ['14C', '03C', '06S', '11H']
+DEBUG - megaHertz's bet strategy: hand_str=39.32, to_call=0, num_opps=3, chips=828, in_pot=40
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 50.66   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Franquito   Hand Strength = 72.21   Mininimum Bet = 0   Bet = 108
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=39.32, to_call=20, num_opps=3, chips=828, in_pot=40
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 50.66   Mininimum Bet = 20   Bet = 0
+DEBUG - Frank folds.
+DEBUG - ON TABLE: ['14C', '03C', '06S', '11H', '09H']
+DEBUG - megaHertz's bet strategy: hand_str=30.77, to_call=0, num_opps=2, chips=808, in_pot=60
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 61.19   Mininimum Bet = 0   Bet = 53
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=30.77, to_call=20, num_opps=2, chips=808, in_pot=60
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['12D', '10C'], Has: [1, 14, 12, 11, 10, 9]
+DEBUG - Player: Franquito   Hand: ['08D', '08S'], Has: [2, 8, 14, 11, 9]
+DEBUG - Franquito gets 120
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 22.24   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=53.92, to_call=5, num_opps=4, chips=783, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 52.96   Mininimum Bet = 10   Bet = 0
+DEBUG - Frank folds.
+DEBUG - Player = Dennis   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 22.24   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz's bet strategy: hand_str=53.92, to_call=10, num_opps=2, chips=778, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['09S', '05D', '06D']
+DEBUG - megaHertz's bet strategy: hand_str=26.84, to_call=0, num_opps=2, chips=768, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Dennis   Hand Strength = 93.57   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['09S', '05D', '06D', '03S']
+DEBUG - megaHertz's bet strategy: hand_str=16.64, to_call=0, num_opps=2, chips=768, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Dennis   Hand Strength = 87.71   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['09S', '05D', '06D', '03S', '08S']
+DEBUG - megaHertz's bet strategy: hand_str=7.65, to_call=0, num_opps=2, chips=768, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Dennis   Hand Strength = 66.62   Mininimum Bet = 0   Bet = 50
+INFO - Dennis bets.
+DEBUG - megaHertz's bet strategy: hand_str=7.65, to_call=20, num_opps=2, chips=768, in_pot=20
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['10D', '11S'], Has: [1, 11, 10, 9, 8, 6]
+DEBUG - Player: Dennis   Hand: ['09D', '14C'], Has: [2, 9, 14, 8, 6]
+DEBUG - Dennis gets 50
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 52.0   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 91.36   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=4, chips=748, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 65.12   Mininimum Bet = 20   Bet = 20
+INFO - Frank calls.
+DEBUG - Player = Dennis   Hand Strength = 52.0   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - ON TABLE: ['07S', '04C', '03H']
+DEBUG - Player = Franquito   Hand Strength = 56.18   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=31.19, to_call=0, num_opps=3, chips=728, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 35.17   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - ON TABLE: ['07S', '04C', '03H', '08H']
+DEBUG - Player = Franquito   Hand Strength = 45.75   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=23.82, to_call=0, num_opps=3, chips=728, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 26.84   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - ON TABLE: ['07S', '04C', '03H', '08H', '03S']
+DEBUG - Player = Franquito   Hand Strength = 47.75   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=26.02, to_call=0, num_opps=3, chips=728, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 28.0   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['10S', '14C'], Has: [2, 3, 14, 10, 8]
+DEBUG - Player: megaHertz   Hand: ['12S', '05C'], Has: [2, 3, 12, 8, 7]
+DEBUG - Player: Frank   Hand: ['12C', '10C'], Has: [2, 3, 12, 10, 8]
+DEBUG - Franquito gets 50
+DEBUG - DEALING
+DEBUG - Player = Frank   Hand Strength = 94.24   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 24.16   Mininimum Bet = 5   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Player = Franquito   Hand Strength = 23.2   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz's bet strategy: hand_str=58.4, to_call=10, num_opps=2, chips=728, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['04C', '12H', '06H']
+DEBUG - Player = Frank   Hand Strength = 60.89   Mininimum Bet = 0   Bet = 46
+INFO - Frank bets.
+DEBUG - megaHertz's bet strategy: hand_str=90.58, to_call=10, num_opps=2, chips=718, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['04C', '12H', '06H', '02S']
+DEBUG - Player = Frank   Hand Strength = 49.15   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - megaHertz's bet strategy: hand_str=86.48, to_call=0, num_opps=2, chips=708, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['04C', '12H', '06H', '02S', '07H']
+DEBUG - Player = Frank   Hand Strength = 35.31   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - megaHertz's bet strategy: hand_str=77.38, to_call=0, num_opps=2, chips=708, in_pot=20
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Frank   Hand: ['13C', '14C'], Has: [1, 14, 13, 12, 7, 6]
+DEBUG - Player: megaHertz   Hand: ['12S', '03C'], Has: [2, 12, 7, 6, 4]
+DEBUG - megaHertz gets 25
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=52.0, to_call=0, num_opps=4, chips=743, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 88.48   Mininimum Bet = 5   Bet = 10
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 76.64   Mininimum Bet = 20   Bet = 20
+INFO - Dennis calls.
+DEBUG - Player = Franquito   Hand Strength = 5.92   Mininimum Bet = 20   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - megaHertz's bet strategy: hand_str=52.0, to_call=10, num_opps=3, chips=743, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['04H', '03C', '09S']
+DEBUG - megaHertz's bet strategy: hand_str=27.21, to_call=0, num_opps=3, chips=733, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 55.45   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 94.3   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['04H', '03C', '09S', '02C']
+DEBUG - megaHertz's bet strategy: hand_str=18.53, to_call=0, num_opps=3, chips=733, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 42.34   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 88.47   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['04H', '03C', '09S', '02C', '04C']
+DEBUG - megaHertz's bet strategy: hand_str=18.02, to_call=0, num_opps=3, chips=733, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 41.33   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 79.95   Mininimum Bet = 0   Bet = 103
+INFO - Dennis bets.
+DEBUG - megaHertz's bet strategy: hand_str=18.02, to_call=20, num_opps=3, chips=733, in_pot=20
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 41.33   Mininimum Bet = 20   Bet = 0
+DEBUG - Frank folds.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['08S', '11H'], Has: [2, 4, 11, 9, 8]
+DEBUG - Player: Dennis   Hand: ['09H', '13D'], Has: [3, 9, 4, 13]
+DEBUG - Dennis gets 60
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 23.2   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=12.32, to_call=5, num_opps=4, chips=708, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 59.36   Mininimum Bet = 10   Bet = 0
+DEBUG - Frank folds.
+DEBUG - Player = Dennis   Hand Strength = 48.16   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - ON TABLE: ['03S', '09S', '07H']
+DEBUG - Player = Franquito   Hand Strength = 12.72   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=8.74, to_call=0, num_opps=2, chips=703, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03S', '09S', '07H', '10C']
+DEBUG - Player = Franquito   Hand Strength = 13.23   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=9.07, to_call=0, num_opps=2, chips=703, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03S', '09S', '07H', '10C', '12S']
+DEBUG - Player = Franquito   Hand Strength = 13.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=8.84, to_call=0, num_opps=2, chips=703, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['05D', '08S'], Has: [1, 12, 10, 9, 8, 7]
+DEBUG - Player: megaHertz   Hand: ['05C', '06D'], Has: [1, 12, 10, 9, 7, 6]
+DEBUG - Franquito gets 10
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 83.68   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 62.24   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=33.44, to_call=10, num_opps=4, chips=703, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 83.68   Mininimum Bet = 10   Bet = 10
+INFO - Dennis calls.
+DEBUG - Player = Franquito   Hand Strength = 62.24   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=33.44, to_call=10, num_opps=4, chips=693, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['04S', '03C', '09S']
+DEBUG - Player = Dennis   Hand Strength = 52.2   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 34.45   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=91.13, to_call=0, num_opps=4, chips=683, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 54.37   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - ON TABLE: ['04S', '03C', '09S', '03S']
+DEBUG - Player = Dennis   Hand Strength = 50.95   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 33.55   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=79.77, to_call=0, num_opps=4, chips=683, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 98.2   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - ON TABLE: ['04S', '03C', '09S', '03S', '12S']
+DEBUG - Player = Dennis   Hand Strength = 27.8   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 52.79   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=44.79, to_call=0, num_opps=4, chips=683, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Frank   Hand Strength = 97.23   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dennis   Hand: ['14H', '02H'], Has: [2, 3, 14, 12, 9]
+DEBUG - Player: Franquito   Hand: ['07D', '12D'], Has: [3, 12, 3, 9]
+DEBUG - Player: megaHertz   Hand: ['09C', '08H'], Has: [3, 9, 3, 12]
+DEBUG - Player: Frank   Hand: ['06S', '14S'], Has: [6, 14, 12, 9, 6, 4]
+DEBUG - Frank gets 60
+DEBUG - DEALING
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 0   Bet = 0
+INFO - Frank checks.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 5   Bet = 10
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=683, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=663, in_pot=20
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=643, in_pot=40
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=623, in_pot=60
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=603, in_pot=80
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=583, in_pot=100
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=563, in_pot=120
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=543, in_pot=140
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=523, in_pot=160
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=503, in_pot=180
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=483, in_pot=200
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=463, in_pot=220
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=443, in_pot=240
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=423, in_pot=260
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=403, in_pot=280
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=383, in_pot=300
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=363, in_pot=320
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=343, in_pot=340
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=323, in_pot=360
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=303, in_pot=380
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=283, in_pot=400
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=263, in_pot=420
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=243, in_pot=440
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=223, in_pot=460
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=203, in_pot=480
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=183, in_pot=500
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=163, in_pot=520
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=143, in_pot=540
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=123, in_pot=560
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=103, in_pot=580
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=83, in_pot=600
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=63, in_pot=620
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=43, in_pot=640
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=23, in_pot=660
+INFO - megaHertz calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - megaHertz's bet strategy: hand_str=43.04, to_call=20, num_opps=4, chips=3, in_pot=680
+DEBUG - megaHertz is all in!
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 20
+INFO - Frank raises.
+DEBUG - Player = Dennis   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - Player = Frank   Hand Strength = 87.52   Mininimum Bet = 10   Bet = 1
+DEBUG - Frank is all in!
+DEBUG - ON TABLE: ['06S', '10D', '09H']
+DEBUG - Player = Dennis   Hand Strength = 98.55   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 41.69   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['06S', '10D', '09H', '03S']
+DEBUG - Player = Dennis   Hand Strength = 98.49   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 32.14   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['06S', '10D', '09H', '03S', '02H']
+DEBUG - Player = Dennis   Hand Strength = 96.84   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 22.07   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Frank   Hand: ['06C', '14H'], Has: [2, 6, 14, 10, 9]
+DEBUG - Player: Dennis   Hand: ['10S', '10H'], Has: [4, 10, 9, 6]
+DEBUG - Player: Franquito   Hand: ['13D', '04C'], Has: [1, 13, 10, 9, 6, 4]
+DEBUG - Player: megaHertz   Hand: ['10C', '09S'], Has: [3, 10, 9, 6]
+DEBUG - Dennis gets 2594
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 3.68   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 28.64   Mininimum Bet = 5   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Franquito gets 5
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 21.28   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 9.44   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 5
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 7.84   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 6.88   Mininimum Bet = 5   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Franquito gets 5
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 76.64   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 74.72   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['10H', '03H', '12S']
+DEBUG - Player = Dennis   Hand Strength = 47.49   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 45.31   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['10H', '03H', '12S', '12H']
+DEBUG - Player = Dennis   Hand Strength = 46.22   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 44.14   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['10H', '03H', '12S', '12H', '03D']
+DEBUG - Player = Dennis   Hand Strength = 49.93   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 49.93   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dennis   Hand: ['09C', '13C'], Has: [3, 12, 3, 13]
+DEBUG - Player: Franquito   Hand: ['13D', '07S'], Has: [3, 12, 3, 13]
+DEBUG - Dennis gets 5
+DEBUG - Franquito gets 0
+DEBUG - Franquito gets 0
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 15.2   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 52.0   Mininimum Bet = 5   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Franquito gets 5
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 73.76   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 48.16   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 5
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 30.56   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 51.04   Mininimum Bet = 5   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Franquito gets 5
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 64.16   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 65.12   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['11S', '14C', '03C']
+DEBUG - Player = Dennis   Hand Strength = 47.49   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 48.57   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['11S', '14C', '03C', '13H']
+DEBUG - Player = Dennis   Hand Strength = 49.53   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 100.0   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['11S', '14C', '03C', '13H', '07D']
+DEBUG - Player = Dennis   Hand Strength = 39.85   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 100.0   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dennis   Hand: ['12S', '09D'], Has: [1, 14, 13, 12, 11, 9]
+DEBUG - Player: Franquito   Hand: ['12H', '10D'], Has: [5, 14]
+DEBUG - Franquito gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 17.12   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 5   Bet = 10
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 17.12   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 10
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 4.64   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 29.6   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 5
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 5.92   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 64.16   Mininimum Bet = 5   Bet = 5
+INFO - Dennis calls.
+DEBUG - ON TABLE: ['06D', '05S', '07H']
+DEBUG - Player = Franquito   Hand Strength = 61.61   Mininimum Bet = 0   Bet = 15
+INFO - Franquito bets.
+DEBUG - Player = Dennis   Hand Strength = 31.55   Mininimum Bet = 10   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Franquito gets 10
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 99.04   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 78.56   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['14S', '13H', '06D']
+DEBUG - Player = Dennis   Hand Strength = 76.1   Mininimum Bet = 0   Bet = 367
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 86.15   Mininimum Bet = 10   Bet = 30
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 76.1   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - 3 raises already made
+DEBUG - Player = Franquito   Hand Strength = 86.15   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['14S', '13H', '06D', '02C']
+DEBUG - Player = Dennis   Hand Strength = 74.48   Mininimum Bet = 0   Bet = 364
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 84.12   Mininimum Bet = 20   Bet = 40
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 74.48   Mininimum Bet = 20   Bet = 20
+INFO - Dennis calls.
+DEBUG - ON TABLE: ['14S', '13H', '06D', '02C', '03D']
+DEBUG - Player = Dennis   Hand Strength = 70.27   Mininimum Bet = 0   Bet = 360
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 79.46   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dennis   Hand: ['12S', '12H'], Has: [2, 12, 14, 13, 6]
+DEBUG - Player: Franquito   Hand: ['13S', '11H'], Has: [2, 13, 14, 11, 6]
+DEBUG - Franquito gets 100
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 3.68   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 3.68   Mininimum Bet = 5   Bet = 0
+DEBUG - Dennis folds.
+DEBUG - Franquito gets 5
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 64.16   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 97.12   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 64.16   Mininimum Bet = 10   Bet = 10
+INFO - Dennis calls.
+DEBUG - ON TABLE: ['12C', '03S', '08D']
+DEBUG - Player = Dennis   Hand Strength = 93.48   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 99.73   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['12C', '03S', '08D', '04D']
+DEBUG - Player = Dennis   Hand Strength = 90.64   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 99.72   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['12C', '03S', '08D', '04D', '13S']
+DEBUG - Player = Dennis   Hand Strength = 78.86   Mininimum Bet = 0   Bet = 355
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 99.41   Mininimum Bet = 20   Bet = 60
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 78.86   Mininimum Bet = 20   Bet = 40
+INFO - Dennis raises.
+DEBUG - 3 raises already made
+DEBUG - Player = Franquito   Hand Strength = 99.41   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dennis   Hand: ['09D', '12D'], Has: [2, 12, 13, 9, 8]
+DEBUG - Player: Franquito   Hand: ['08S', '08C'], Has: [4, 8, 13, 12]
+DEBUG - Franquito gets 80
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 61.28   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 99.04   Mininimum Bet = 5   Bet = 10
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 61.28   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['10S', '13S', '02C']
+DEBUG - Player = Franquito   Hand Strength = 44.23   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 85.88   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['10S', '13S', '02C', '03H']
+DEBUG - Player = Franquito   Hand Strength = 34.78   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 83.55   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['10S', '13S', '02C', '03H', '14H']
+DEBUG - Player = Franquito   Hand Strength = 34.72   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 69.48   Mininimum Bet = 0   Bet = 173
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 34.72   Mininimum Bet = 20   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 20
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 15.2   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 66.08   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['03H', '04H', '05C']
+DEBUG - Player = Dennis   Hand Strength = 62.61   Mininimum Bet = 0   Bet = 175
+INFO - Dennis bets.
+DEBUG - Player = Franquito   Hand Strength = 34.81   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 29.6   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 90.4   Mininimum Bet = 5   Bet = 10
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 29.6   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 10
+DEBUG - DEALING
+DEBUG - Player = Dennis   Hand Strength = 33.44   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - Player = Franquito   Hand Strength = 16.16   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Dennis gets 5
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 5   Bet = 10
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dennis   Hand Strength = 100.0   Mininimum Bet = 10   Bet = 20
+INFO - Dennis raises.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 10
+DEBUG - Franquito is all in!
+DEBUG - ON TABLE: ['03C', '04C', '13H']
+DEBUG - Player = Dennis   Hand Strength = 96.74   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['03C', '04C', '13H', '05H']
+DEBUG - Player = Dennis   Hand Strength = 89.98   Mininimum Bet = 0   Bet = 0
+INFO - Dennis checks.
+DEBUG - ON TABLE: ['03C', '04C', '13H', '05H', '07D']
+DEBUG - Player = Dennis   Hand Strength = 72.05   Mininimum Bet = 0   Bet = 308
+INFO - Dennis bets.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['12D', '14C'], Has: [1, 14, 13, 12, 7, 5]
+DEBUG - Player: Dennis   Hand: ['14S', '14D'], Has: [2, 14, 13, 7, 5]
+DEBUG - Dennis gets 460

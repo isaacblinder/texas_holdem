@@ -1,192 +1,31 @@
 
-
-#HAND FRAMEWORK
 import random
+import poker_simulators
+from poker_simulators import *
+import logging
+import os
+import configparser
+import poker_bot
 
-def create_deck():
-    deck = []
-    suits = ['H','S','D','C']
-    for suit in suits:
-        deck.extend([x+suit for x in ['14','13','12','11','10','09','08','07','06','05','04','03','02']])
-    return deck
+config = configparser.ConfigParser()
+config.read('config.ini')
 
-def pick_random(deck):
-    size = len(deck)
-    randInt = random.randint(0,size-1)
-    card = deck.pop(randInt)
-    return card
+logLvl = config['LOGGER']['level']
+logger = logging.getLogger('poker_framework')
+logger.setLevel(logLvl)
+numLogs = len(os.listdir('logs/'))
+fs = logging.FileHandler('logs/log'+str(numLogs))
+fs.setFormatter(logging.Formatter('%(levelname)s - %(message)s'))
+fs.setLevel(logLvl)
+logger.addHandler(fs)
+initial_chips=int(config['VARS']['initial_chips'])
+num_players=int(config['VARS']['num_players'])
 
+big_blind=int(config['BLINDS']['big_blind'])
+small_blind=int(config['BLINDS']['small_blind'])
 
-def get_tiebreak(num_cards,excludes,hand):
-    ret = excludes
-    numExc = len(excludes)
-    hand.sort(key=lambda x: int(x[:2]))
-    ind = len(hand)-1
-    while len(ret) < num_cards+numExc and ind >= 0:
-        highCard = int(hand[ind][:2])
-        if highCard not in ret:
-            ret.append(highCard)
-        ind-=1
-    return ret
-        
-
-def get_top_hand(flop,hand,printBest=False):
-    
-    totals = flop + hand
-    
-    try:
-        totals.sort(key=lambda x: int(x[:2]))
-    except ValueError:
-        print('ERROR: Incorrect Card Format.')
-        return
-    
-    high_card = int(totals[len(totals)-1][:2])
-    second_highest = int(totals[len(totals)-2][:2])
-    
-    #Hand Analysis
-    suits = {'H':[],'S':[],'D':[],'C':[]}
-    mults = {}
-    
-    #add suits, mulitples
-    for card in totals:
-        c_number = int(card[:2])
-        c_suit = card[2]
-        
-        suits[c_suit].append(c_number)
-        mults.setdefault(c_number,0)
-        mults[c_number]+=1
-    
-    
-                
-
-    #Check for flush
-    straight = []
-    flushBool = False
-    topSuitCard = None
-    flushCards = None
-
-    for s_cards in suits.values():
-        if len(s_cards) >= 5:
-            flushBool = True
-            flushCards = list(reversed(s_cards))
-            #check for straight flush
-            straight=[]
-            straightBool=False
-            if 14 in s_cards:
-                s_cards.insert(0,1)
-            
-            for num in s_cards:
-                if len(straight) == 0:
-                    straight.append(num)
-                elif num == straight[len(straight)-1]:
-                    continue
-                elif num == straight[len(straight)-1] + 1:
-                    straight.append(num)
-                    if len(straight) >= 5:
-                        straightBool = True
-                elif straightBool==False:
-                    straight = [num]
-            
-    
-    #check for straight          
-    if flushBool == False:
-        straightBool = False
-        straight = []
-        card_nums = []
-        for card in totals:
-            c_number = int(card[:2])
-            card_nums.append(c_number)
-            if c_number == 14:
-                card_nums.insert(0,1)
-                
-        for num in card_nums:
-            if len(straight) == 0:
-                straight.append(num)
-            elif num == straight[len(straight)-1]:
-                continue
-            elif num == straight[len(straight)-1] + 1:
-                straight.append(num)
-                if len(straight) >= 5:
-                    straightBool = True
-            elif straightBool==False:
-                straight = [num]
-    
-    
-    if 1 in straight and 13 in straight:
-        straight.append(14)
-            
-      
-    #(card number, how many)
-    bestMult = (None,0)
-    secondBest = (None,0)
-    for card,num in mults.items():
-        if num > bestMult[1]:
-            secondBest = bestMult
-            bestMult = (card,num)
-        
-        elif num == bestMult[1]:
-            if card > bestMult[0]:
-                secondBest = bestMult
-                bestMult = (card,num)
-        else:
-            if num > secondBest[1]:
-                secondBest = (card,num)
-            elif num == secondBest[1] and card > secondBest[0]:
-                secondBest = (card,num)
-                
-
-    #look for best hand
-    hand = (None,None)
-    if straightBool and flushBool:
-        hand = [9,straight[len(straight)-1]]
-    elif bestMult[1] == 4:
-        hand = [8] + get_tiebreak(1,[bestMult[0]],totals)
-    elif bestMult[1] == 3 and secondBest[1] == 2:
-        hand = [7,bestMult[0],secondBest[0]]
-    elif flushBool:
-        hand = [6,*flushCards]
-    elif straightBool:
-        hand = [5,straight[len(straight)-1]]
-    elif bestMult[1] == 3:
-        hand = [4] + get_tiebreak(2,[bestMult[0]],totals)
-    elif bestMult[1] == 2 and secondBest[1] == 2:
-        hand =  [3] + get_tiebreak(1,[bestMult[0],secondBest[0]],totals)
-    elif bestMult[1] == 2:
-        hand = [2] + get_tiebreak(3,[bestMult[0]],totals)
-    else:
-        hand = [1] + get_tiebreak(5,[],totals)
-    return hand
-
-
-
-#hands is a list of (get_top_hand,player_name) tuples
-def get_winner(hands):
-    winHand = None
-    winPlayers = []
-
-    for hand,player in hands:
-        if winHand == None:
-            winHand = hand
-            winPlayers.append(player)
-        else:
-            if winHand == hand:
-                winPlayers.append(player)
-            else:
-                for ind in range(len(winHand)):
-                    if hand[ind] > winHand[ind]:
-                        winHand = hand
-                        winPlayers = [player]
-                        break
-                    elif hand[ind] < winHand[ind]:
-                        break
-    return winPlayers
-
-
-
-
-
-#GAME FRAMEWORK
-class player:
+#PLAYER FRAMEWORK
+class Player:
     def __init__(self,initial_chips,name):
         self.chips = initial_chips
         self.name = name
@@ -195,8 +34,13 @@ class player:
         self.chips_in_pot = 0
         self.current_bet = 0
         self.previous_bet = 0
-        
+        self.path_to_prof=None
+
+        #player: [(cards in hand, hand strength, action, categorization of action)]
+        self.memory=[]
     
+
+    #new round
     def reset(self):
         self.hand = None
         self.in_hand = True
@@ -205,64 +49,40 @@ class player:
         self.chips_in_pot = 0
          
     
-    #returns the strength of input_hand
     #strength = num of winning hands / hand possibilities
     def get_hand_strength(self,input_flop=[]):
-        deck = create_deck()
-        my_hand = (get_top_hand(input_flop, self.hand),'me')
-        deck.remove(self.hand[0])
-        deck.remove(self.hand[1])
-
-        for card in input_flop:
-            deck.remove(card)
-
-        visited_hands = []
-        losses = 0
-        for card1 in deck:
-            for card2 in deck:
-                if card1 != card2 and [card1,card2] not in visited_hands:
-                    visited_hands.append([card1,card2])
-                    visited_hands.append([card2,card1])
-                    other_hand = (get_top_hand([card1,card2],input_flop),'other')
-                    winners = get_winner([my_hand,other_hand])
-                    if 'me' not in winners:
-                        losses+=1
-        total_hands = len(deck)*len(deck)/2                
-        return round(100*(total_hands-losses) / total_hands,2)
-    
+        return poker_simulators.hand_strength(self.hand, input_flop)
+        
 
     def get_num_losing_hands(self,input_flop):
-        deck = create_deck()
-        my_hand = (get_top_hand(input_flop, self.hand),'me')
-        deck.remove(self.hand[0])
-        deck.remove(self.hand[1])
+        return poker_simulators.num_losing_hands(self.hand, input_flop)
 
-        for card in input_flop:
-            deck.remove(card)
-
-        visited_hands = []
-        losses = 0
-        for card1 in deck:
-            for card2 in deck:
-                if card1 != card2 and [card1,card2] not in visited_hands:
-                    visited_hands.append([card1,card2])
-                    visited_hands.append([card2,card1])
-                    other_hand = (get_top_hand([card1,card2],input_flop),'other')
-                    winners = get_winner([my_hand,other_hand])
-                    if 'me' not in winners:
-                        losses+=1
-        return losses
     
-    #what rank are you in chips compared to your opponents
     def get_chip_rank(self,other_players):
         rank = 1
         for player in other_players:
             if player.chips > self.chips:
                 rank+=1
         return rank
-    
+
+    def strength_meter():
+        i=3
+
+    #def categorize_players():
+        #if more than 10 hands played
+
+    #BETTING STRATEGIES
+    def value_bet():
+        i=3
+
+    def bluff():
+        i=3
+
+
+
+    #decide whether to go all in
     def all_in_decision(self,invested,hand_strength):
-        if invested >= 90:
+        if invested >= 85:
             return True
         elif invested >= 50 and hand_strength >= 75:
             return True
@@ -286,23 +106,24 @@ class player:
                     num_dominated_chips = player.chips
         return num_dominated_chips
     
-    def make_decision(self,other_players,min_bet,input_flop=[],printInfo=False):
+
+    def make_decision(self,other_players,min_bet,num_raises,input_flop=[]):
         hand_strength = self.get_hand_strength(input_flop=input_flop)
         
         if len(input_flop) == 0:
             bet =  self.pre_flop_strategy(min_bet,hand_strength)
         else:
             if len(input_flop) == 3:
-                bet = self.round_1_strategy(min_bet,other_players,hand_strength)
+                bet = self.round_1_strategy(min_bet,other_players,hand_strength,num_raises)
             elif len(input_flop) == 4:
-                bet = self.round_1_strategy(min_bet,other_players,hand_strength)
+                bet = self.round_1_strategy(min_bet,other_players,hand_strength,num_raises)
             elif len(input_flop) == 5:
-                bet = self.round_1_strategy(min_bet,other_players,hand_strength)
+                bet = self.round_1_strategy(min_bet,other_players,hand_strength,num_raises)
         
         if bet > self.chips:
             bet = self.chips
-        if printInfo:
-            print('Player = {}   Hand Strength = {}    Bet = {}'.format(self.name,hand_strength,bet))  
+        
+        logger.debug('Player = {}   Hand Strength = {}   Mininimum Bet = {}'.format(self.name,hand_strength,min_bet))  
         return bet
     
     
@@ -318,41 +139,52 @@ class player:
             return 0
         
         
-    def round_1_strategy(self,min_bet,other_players,hand_strength):
+    def round_1_strategy(self,min_bet,other_players,hand_strength,num_raises):
         chip_rank = self.get_chip_rank(other_players)
         dominated_players = self.get_dominated_players(other_players)
         min_bet_ratio = min_bet/self.chips
         confidence_ratio = hand_strength * (1-min_bet_ratio)
-        percent_chips_invested = 100*self.chips / (self.chips_in_pot+self.chips)
-        
+        percent_chips_invested = round(100*(1-(self.chips / (self.chips_in_pot+self.chips))))
+        #logger.debug(self.name + '\'s bet strategy: chip rank={}, dominated_plyrs={}, min_bet/num_chips={}, confidence_ratio={}, perc_invested={}'.format(chip_rank,dominated_players,min_bet_ratio,confidence_ratio,percent_chips_invested))
+
+
+        final_bet = 0
         #must go all in
         if min_bet >= self.chips:
             if self.all_in_decision(percent_chips_invested,hand_strength) == True:
-                return min_bet
+                final_bet = min_bet
             else:
-                return 0
-        if min_bet > 0:
+                final_bet = 0
+
+        elif min_bet > 0:
             if confidence_ratio >= 80 or hand_strength >= 90:
-                return min_bet*3
+                final_bet = min_bet*3
             elif confidence_ratio >= 75 or hand_strength >= 80:
-                return min_bet*2
+                final_bet = min_bet*2
             elif 100*min_bet_ratio <= 20 and hand_strength >= 70:
-                return min_bet
+                final_bet = min_bet
             elif 100*min_bet_ratio <= 10 and hand_strength >= 60:
-                return min_bet
+                final_bet = min_bet
             else:
-                return 0
+                final_bet = 0
+
         else:
             if hand_strength >= 90:
-                return min_bet*3
+                final_bet = min_bet*3
             elif hand_strength >= 80:
-                return min_bet*2
+                final_bet = min_bet*2
             elif hand_strength >= 70:
-                return min_bet + int(self.chips/10)
+                final_bet = min_bet + int(self.chips/10)
             elif hand_strength >= 60:
-                return min_bet + int(self.chips/20)
+                final_bet = min_bet + int(self.chips/20)
             else:
-                return 0
+                final_bet = 0
+
+        if num_raises >= 3:
+            if final_bet > min_bet:
+                logger.debug('3 raises already made')
+                final_bet=min_bet
+        return final_bet
             
 
         
@@ -374,24 +206,28 @@ class player:
     
     #@make_bet
     #def continuation_bet(self,previous_bet):
-    
-    
+  
 
-class poker_game:
-    def __init__(self,num_players,initial_chips,printInfo=False):
+    
+#GAME FRAMEWORK
+class Game:
+    def __init__(self):
         names = ['Frank','Dee','Mac','Charlie','Dennis','Franquito','Margaret','Rickety Cricket','Artemis']
         
         self.pot = 0
         self.deck = create_deck()
         self.flop = []
-        self.printInfo = printInfo
         
         self.players = []#[player(initial_chips=initial_chips, name='me')]
-        for _ in range(num_players):
+        for _ in range(num_players-1):
             player_name = names.pop(random.randint(0,len(names)-1))
-            new_player = player(initial_chips=initial_chips, name=player_name)
+            new_player = Player(initial_chips=initial_chips, name=player_name)
             self.players.append(new_player)
-    
+
+        #add bot
+        new_player = Player(initial_chips=initial_chips, name='megaHertz')
+        new_player.path_to_prof='megaHertz_profile.json'
+        self.players.append(new_player)
     
     #getters
     def get_players(self):
@@ -427,7 +263,7 @@ class poker_game:
         return players_in
     
     def deliver_winnings(self,winPlayer,numWinners):
-        grab = winPlayer.chips_in_pot / numWinners
+        grab = int(round(winPlayer.chips_in_pot / numWinners))
         winnings = winPlayer.chips_in_pot
         for player in self.players:
             if player != winPlayer:
@@ -438,8 +274,7 @@ class poker_game:
                     winnings += grab
                     player.chips_in_pot -= grab
 
-        if self.printInfo:
-            print('{} gets {}'.format(winPlayer.name,winnings-winPlayer.chips_in_pot))
+        logger.debug('{} gets {}'.format(winPlayer.name,winnings-winPlayer.chips_in_pot))
         winPlayer.chips += winnings
         winPlayer.chips_in_pot = 0
         
@@ -457,70 +292,147 @@ class poker_game:
             for player in self.players:
                 player.chips += player.chips_in_pot
                 player.chips_in_pot = 0
-                    
 
+    def deal(self):
+
+        for player in self.players:
+            player.hand = [pick_random(self.deck),pick_random(self.deck)]
+            player.in_hand = True
+
+        self.run_hand()
+        self.check_elim()
+        self.rotate_players()
+        self.reset()
+
+
+    def run_hand(self):
+        if len(self.flop)==0:
+            logger.debug('DEALING')
+            self.update_pot(self.players[0],big_blind)
+            self.update_pot(self.players[1],small_blind)
+            self.betting(min_bet=big_blind,top_bettor=[])
+        else:
+            logger.debug('ON TABLE: ' + str(self.flop))
+            self.betting(top_bettor=[])
+
+        players_in = self.players_in_hand()
+        if len(players_in) == 1:
+            self.deliver_winnings(players_in[0],1)
+        else:
+            if len(self.flop) == 0:
+                    self.flop = [pick_random(self.deck),pick_random(self.deck),pick_random(self.deck)]
+                    self.run_hand()
+            elif len(self.flop) < 5:
+                self.flop.append(pick_random(self.deck))
+                self.run_hand()
+            else:
+                self.showdown()
+
+    def get_bet_round(self):
+        if not self.flop:
+            return 0
+        elif len(self.flop)==3:
+            return 1
+        elif len(self.flop)==4:
+            return 2
+        elif len(self.flop)==5:
+            return 3
+        else:
+            print('ERROR: Incorrect number of cards in flop')
     
     
     #go around table
     #if everyone checks, continue on
     #if someone raises, everyone else must call / raise
-    def betting(self,min_bet=0,top_bettor=None):         
+    def betting(self,min_bet=0,top_bettor=[],num_raises=0):
+        bet_round=self.get_bet_round()
+        if bet_round <= 1:
+            max_raise=10
+        else:
+            max_raise=20
+
         new_bets = False
         for player in self.players:
-            if player != top_bettor and player.in_hand:
+            if player not in top_bettor and player.in_hand:
                 if player.name != 'me':
-                    if player.chips == 0:
-                        continue
-                    else:
+                    if player.chips > 0:
                         player_min = min_bet-player.current_bet
-                        decision = player.make_decision(other_players=self.players_in_hand(), min_bet=player_min, input_flop=self.flop, printInfo=self.printInfo)
-                        if decision == player.chips:
+                        if player.path_to_prof: #bot
+                            hand_str=player.get_hand_strength(self.flop)
+                            decision=poker_bot.get_decision(path_to_prof=player.path_to_prof,
+                                                            hand_str=hand_str,
+                                                            bet_round=bet_round,
+                                                            to_call=player_min,
+                                                            num_opps=len(self.players_in_hand()),
+                                                            chips=player.chips,
+                                                            in_pot=player.chips_in_pot,
+                                                            pot_size=self.pot)
+                            if decision=='k':
+                                decision=0
+                            elif decision=='c':
+                                decision=player_min
+                            elif decision=='r' or decision=='b':
+                                decision=player_min+max_raise
+                            logger.debug(player.name + '\'s decision info: hand_str={}, to_call={}, num_opps={}, chips={}, in_pot={}'.format(hand_str,player_min,len(self.players_in_hand()),player.chips,player.chips_in_pot))
+
+
+                        else:
+                            decision = player.make_decision(other_players=self.players_in_hand(), min_bet=player_min, num_raises=num_raises, input_flop=self.flop)
+                        
+
+                        if decision==player_min and decision < player.chips:
+                            top_bettor.append(player)
                             self.update_pot(player,decision)
-                            if self.printInfo:
-                                print(player.name + ' is all in!')
-                        elif decision >= player_min:
+                            if player_min==0:
+                                logger.debug(player.name + ' checks.')
+                            else:
+                                logger.debug(player.name + ' calls.')
+                        
+                        elif decision > player_min:
+                            decision=player_min+max_raise
                             self.update_pot(player,decision)
-                            #raise
-                            if decision > player_min:
-                                top_bettor = player
-                                new_bets = True
-                                min_bet += decision-player_min  
-                        else:                      
+                            num_raises+=1
+                            top_bettor = [player]
+                            new_bets = True
+                            min_bet += decision-player_min
+
+                            if player_min==0:
+                                logger.debug(player.name + ' bets.')
+                            else:
+                                logger.debug(player.name + ' raises.')
+
+                        elif decision >= player.chips:
+                            decision=player.chips
+                            self.update_pot(player,decision)
+                            logger.debug(player.name + ' is all in!')
+  
+                        else: 
+                            #fold      
                             player.in_hand = False
-                            if self.printInfo:
-                                print('{} folds.'.format(player.name))
+                            logger.debug('{} folds.'.format(player.name))
         
         if new_bets:
-            self.betting(min_bet=min_bet,top_bettor=top_bettor)
+            self.betting(min_bet=min_bet,top_bettor=top_bettor,num_raises=num_raises)
                
         for player in self.players:
             player.current_bet = 0
-        
-            
-    
-    def deal(self):
-        if self.printInfo:
-            print('Dealing round')
-        big = 10
-        small = 5
-        add_bet = 0
 
-        for player in self.players:
-            player.hand = [pick_random(self.deck),pick_random(self.deck)]
-            player.in_hand = True
-            
-        self.update_pot(self.players[0],big)
-        self.update_pot(self.players[1],small)
+
+    def showdown(self):
+        logger.debug('SHOWDOWN')
+        topHands = []
+        for player in self.players_in_hand():
+            topHand=get_top_hand(self.flop,player.hand)
+            topHands.append((topHand,player))
+            logger.debug('Player: {}   Hand: {}, Has: {}'.format(player.name,player.hand,topHand))
         
-        self.betting(min_bet=10,top_bettor=self.players[0])
+        winners = get_winner(topHands)
+        for winner in winners:
+            self.deliver_winnings(winner,len(winners))
                 
-        players_in = self.players_in_hand()
-        if len(players_in) == 1:
-            winPlayer = players_in[0]
-            self.deliver_winnings(winPlayer,1)
-        else:
-            self.deal_flop()
         
+
+    def check_elim(self):
         elimBool = False
         for player in self.players:
             if player.chips == 0:
@@ -536,86 +448,13 @@ class poker_game:
             print('Game Over! {} Wins!'.format(self.players[0].name))
             return 
 
-        self.rotate_players()
-        self.reset()
         
-    
+         
 
-    def deal_flop(self):
-        if self.printInfo:
-            print('\nFirst Flop')
-        self.flop = [pick_random(self.deck),pick_random(self.deck),pick_random(self.deck)]
-        self.betting()
-
-        players_in = self.players_in_hand()
-        if len(players_in) == 1:
-            winPlayer = players_in[0]
-            self.deliver_winnings(winPlayer,1)
-        else:
-            self.flop_two()
-        
-        
-    def flop_two(self):
-        if self.printInfo:
-            print('\nSecond Flop')
-        self.flop.append(pick_random(self.deck))
-        self.betting()
-            
-        players_in = self.players_in_hand()
-        if len(players_in) == 1:
-            winPlayer = players_in[0]
-            self.deliver_winnings(winPlayer,1)
-        else:
-            self.river()
-    
-    
-    def river(self):
-        if self.printInfo:
-            print('\nRiver Card')
-        self.flop.append(pick_random(self.deck))
-        self.betting()
-            
-        players_in = self.players_in_hand()
-        if len(players_in) == 1:
-            winPlayer = players_in[0]
-            self.deliver_winnings(winPlayer,1)
-        else:
-            self.showdown()
-    
-    
-    def showdown(self):
-        topHands = []
-        in_hand = self.players_in_hand()
-        for player in in_hand:
-            topHands.append((get_top_hand(self.flop,player.hand),player))
-
-        winners = get_winner(topHands)
-        
-        if self.printInfo:
-            print('Flop:  ' + str(self.flop))
-        if self.printInfo:
-            for player in in_hand:
-                print('Player: {}   Hand: {}'.format(player.name,player.hand))
-        
-        for winner in winners:
-            self.deliver_winnings(winner,len(winners))
-        if self.printInfo:
-            print('')
-        
-game = poker_game(num_players=4,initial_chips=100)
-while len(game.players) > 1:
+game = Game()
+iters=0
+while len(game.players) > 1 and iters<1000:
+    iters+=1
     game.deal()
             
                 
-                
-                
-        
-        
-                
-
-        
-
-
-
-
-

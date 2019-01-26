@@ -1,0 +1,111 @@
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 5   Bet = 10
+INFO - Mac raises.
+DEBUG - Player = Margaret   Hand Strength = 24.16   Mininimum Bet = 20   Bet = 0
+DEBUG - Margaret folds.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=1000, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=980, in_pot=20
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=960, in_pot=40
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=940, in_pot=60
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=920, in_pot=80
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=900, in_pot=100
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - megaHertz's bet strategy: hand_str=60.32, to_call=20, num_opps=3, chips=880, in_pot=120
+DEBUG - megaHertz folds.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Mac   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Mac raises.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.

@@ -1,0 +1,2136 @@
+DEBUG - DEALING
+DEBUG - Player = Dee   Hand Strength = 86.56   Mininimum Bet = 0   Bet = 0
+INFO - Dee checks.
+DEBUG - Player = Franquito   Hand Strength = 46.24   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 63.2   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=33.44, to_call=10, num_opps=3, chips=1000, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['08D', '05S', '08C']
+DEBUG - Player = Dee   Hand Strength = 87.6   Mininimum Bet = 0   Bet = 0
+INFO - Dee checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 98.73   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=97.65, to_call=0, num_opps=3, chips=990, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['08D', '05S', '08C', '06H']
+DEBUG - Player = Dee   Hand Strength = 72.87   Mininimum Bet = 0   Bet = 99
+INFO - Dee bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 95.09   Mininimum Bet = 20   Bet = 60
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=94.33, to_call=40, num_opps=3, chips=990, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 72.87   Mininimum Bet = 20   Bet = 20
+INFO - Dee calls.
+DEBUG - ON TABLE: ['08D', '05S', '08C', '06H', '13C']
+DEBUG - Player = Dee   Hand Strength = 61.48   Mininimum Bet = 0   Bet = 47
+INFO - Dee bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 94.67   Mininimum Bet = 20   Bet = 60
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=93.88, to_call=40, num_opps=3, chips=950, in_pot=50
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 61.48   Mininimum Bet = 20   Bet = 20
+INFO - Dee calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dee   Hand: ['14H', '05C'], Has: [3, 8, 5, 14]
+DEBUG - Player: Rickety Cricket   Hand: ['08S', '12S'], Has: [4, 8, 13, 12]
+DEBUG - Player: megaHertz   Hand: ['09D', '08H'], Has: [4, 8, 13, 9]
+DEBUG - Rickety Cricket gets 185
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=0, num_opps=4, chips=900, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 5   Bet = 10
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 20   Bet = 40
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 47.2   Mininimum Bet = 30   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=20, num_opps=3, chips=900, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=20, num_opps=3, chips=880, in_pot=30
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=20, num_opps=3, chips=860, in_pot=50
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=20, num_opps=3, chips=840, in_pot=70
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=20, num_opps=3, chips=820, in_pot=90
+INFO - megaHertz calls.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=20, num_opps=3, chips=800, in_pot=110
+DEBUG - megaHertz folds.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 20
+INFO - Dee raises.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Dee   Hand Strength = 95.68   Mininimum Bet = 10   Bet = 10
+DEBUG - Dee is all in!
+DEBUG - ON TABLE: ['14C', '13C', '09H']
+DEBUG - Player = Franquito   Hand Strength = 99.73   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['14C', '13C', '09H', '02H']
+DEBUG - Player = Franquito   Hand Strength = 99.72   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['14C', '13C', '09H', '02H', '05D']
+DEBUG - Player = Franquito   Hand Strength = 98.12   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Dee   Hand: ['05S', '05H'], Has: [4, 5, 14, 13]
+DEBUG - Player: Franquito   Hand: ['13S', '13D'], Has: [4, 13, 14, 9]
+DEBUG - Franquito gets 1020
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 52.0   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=15.2, to_call=5, num_opps=3, chips=795, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 60.32   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['09S', '09H', '02D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 36.62   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=10.55, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 43.14   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['09S', '09H', '02D', '02H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 39.32   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=14.37, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 50.66   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['09S', '09H', '02D', '02H', '12D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 41.04   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=41.04, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 76.4   Mininimum Bet = 0   Bet = 200
+INFO - Franquito bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 41.04   Mininimum Bet = 20   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=41.04, to_call=20, num_opps=2, chips=790, in_pot=10
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['03S', '07D'], Has: [3, 9, 2, 12]
+DEBUG - Player: Franquito   Hand: ['05H', '12H'], Has: [3, 12, 9, 5]
+DEBUG - Franquito gets 40
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 31.52   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 62.24   Mininimum Bet = 5   Bet = 5
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=21.28, to_call=10, num_opps=3, chips=770, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02H', '09D', '05H']
+DEBUG - Player = Franquito   Hand Strength = 89.68   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 34.45   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=10.55, to_call=0, num_opps=3, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02H', '09D', '05H', '09S']
+DEBUG - Player = Franquito   Hand Strength = 96.22   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 35.92   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=10.96, to_call=0, num_opps=3, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02H', '09D', '05H', '09S', '14C']
+DEBUG - Player = Franquito   Hand Strength = 94.27   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 35.9   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=11.41, to_call=0, num_opps=3, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['06H', '09C'], Has: [4, 9, 14, 6]
+DEBUG - Player: Rickety Cricket   Hand: ['07C', '12D'], Has: [2, 9, 14, 12, 7]
+DEBUG - Player: megaHertz   Hand: ['03H', '08S'], Has: [2, 9, 14, 8, 5]
+DEBUG - Franquito gets 20
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=9.44, to_call=0, num_opps=3, chips=750, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 30.56   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 93.28   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=9.44, to_call=10, num_opps=2, chips=750, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['07S', '12D', '10S']
+DEBUG - megaHertz's bet strategy: hand_str=10.55, to_call=0, num_opps=2, chips=740, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 96.65   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['07S', '12D', '10S', '14H']
+DEBUG - megaHertz's bet strategy: hand_str=14.37, to_call=0, num_opps=2, chips=740, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 97.73   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['07S', '12D', '10S', '14H', '06C']
+DEBUG - megaHertz's bet strategy: hand_str=47.16, to_call=0, num_opps=2, chips=740, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 95.75   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['06D', '02D'], Has: [2, 6, 14, 12, 10]
+DEBUG - Player: Rickety Cricket   Hand: ['12S', '14D'], Has: [3, 14, 12, 10]
+DEBUG - Rickety Cricket gets 25
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 53.92   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=96.16, to_call=5, num_opps=3, chips=735, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 31.52   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['06H', '12S', '13C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 48.57   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=99.46, to_call=0, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06H', '12S', '13C', '05S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 39.32   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=99.43, to_call=0, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06H', '12S', '13C', '05S', '11S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 65.53   Mininimum Bet = 0   Bet = 59
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=92.59, to_call=20, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['11D', '10D'], Has: [2, 11, 13, 12, 10]
+DEBUG - Player: megaHertz   Hand: ['06S', '06C'], Has: [4, 6, 13, 12]
+DEBUG - megaHertz gets 30
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 72.8   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 65.12   Mininimum Bet = 5   Bet = 5
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=51.04, to_call=10, num_opps=3, chips=770, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['06H', '09D', '14C']
+DEBUG - Player = Franquito   Hand Strength = 55.45   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 47.49   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=35.54, to_call=0, num_opps=3, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06H', '09D', '14C', '07D']
+DEBUG - Player = Franquito   Hand Strength = 43.48   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 35.54   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=67.86, to_call=0, num_opps=3, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06H', '09D', '14C', '07D', '02H']
+DEBUG - Player = Franquito   Hand Strength = 33.53   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 26.81   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=65.23, to_call=0, num_opps=3, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['13S', '05D'], Has: [1, 14, 13, 9, 7, 6]
+DEBUG - Player: Rickety Cricket   Hand: ['10S', '12C'], Has: [1, 14, 12, 10, 9, 7]
+DEBUG - Player: megaHertz   Hand: ['07S', '11D'], Has: [2, 7, 14, 11, 9]
+DEBUG - megaHertz gets 20
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=70.88, to_call=0, num_opps=3, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 60.32   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - Player = Rickety Cricket   Hand Strength = 52.0   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - ON TABLE: ['03S', '02C', '06H']
+DEBUG - megaHertz's bet strategy: hand_str=79.54, to_call=0, num_opps=2, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 31.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['03S', '02C', '06H', '11S']
+DEBUG - megaHertz's bet strategy: hand_str=67.86, to_call=0, num_opps=2, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 23.82   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['03S', '02C', '06H', '11S', '07D']
+DEBUG - megaHertz's bet strategy: hand_str=56.64, to_call=0, num_opps=2, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 17.33   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['03H', '13D'], Has: [2, 3, 13, 11, 7]
+DEBUG - Player: Franquito   Hand: ['05H', '12C'], Has: [1, 12, 11, 7, 6, 5]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 11.36   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=49.12, to_call=5, num_opps=3, chips=795, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 64.16   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['02C', '03S', '12D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 4.03   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=32.28, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 93.48   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['02C', '03S', '12D', '14S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 3.02   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=32.51, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 80.53   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['02C', '03S', '12D', '14S', '02S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 4.2   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=37.78, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 96.84   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['04S', '06H'], Has: [2, 2, 14, 12, 6]
+DEBUG - Player: megaHertz   Hand: ['11D', '05S'], Has: [2, 2, 14, 12, 11]
+DEBUG - Player: Franquito   Hand: ['12S', '09S'], Has: [6, 14, 12, 9, 3, 2]
+DEBUG - Franquito gets 20
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 11.36   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 5.92   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=30.56, to_call=10, num_opps=2, chips=790, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02D', '03H', '13D']
+DEBUG - Player = Franquito   Hand Strength = 4.03   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=17.07, to_call=0, num_opps=2, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02D', '03H', '13D', '10C']
+DEBUG - Player = Franquito   Hand Strength = 4.16   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=17.77, to_call=0, num_opps=2, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02D', '03H', '13D', '10C', '07H']
+DEBUG - Player = Franquito   Hand Strength = 4.3   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=12.59, to_call=0, num_opps=2, chips=780, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['04D', '06C'], Has: [1, 13, 10, 7, 6, 4]
+DEBUG - Player: megaHertz   Hand: ['05C', '09D'], Has: [1, 13, 10, 9, 7, 5]
+DEBUG - megaHertz gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=63.2, to_call=0, num_opps=3, chips=795, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 16.16   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 28.64   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz gets 5
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 2.72   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=78.56, to_call=5, num_opps=3, chips=805, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 42.08   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['12C', '11S', '12D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 2.94   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=90.13, to_call=0, num_opps=2, chips=800, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['12C', '11S', '12D', '14D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 3.02   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=78.17, to_call=0, num_opps=2, chips=800, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['12C', '11S', '12D', '14D', '06D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 8.84   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=73.04, to_call=0, num_opps=2, chips=800, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['02C', '03H'], Has: [2, 12, 14, 11, 6]
+DEBUG - Player: megaHertz   Hand: ['13H', '11C'], Has: [3, 12, 11, 14]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 46.24   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 76.64   Mininimum Bet = 5   Bet = 5
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=40.16, to_call=10, num_opps=3, chips=820, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['09H', '12H', '09C']
+DEBUG - Player = Franquito   Hand Strength = 40.97   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 99.09   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=35.54, to_call=0, num_opps=3, chips=810, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['09H', '12H', '09C', '08D']
+DEBUG - Player = Franquito   Hand Strength = 38.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 96.98   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=29.49, to_call=0, num_opps=3, chips=810, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['09H', '12H', '09C', '08D', '06S']
+DEBUG - Player = Franquito   Hand Strength = 26.42   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 93.09   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=59.7, to_call=0, num_opps=3, chips=810, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['11D', '02C'], Has: [2, 9, 12, 11, 8]
+DEBUG - Player: Rickety Cricket   Hand: ['13C', '09D'], Has: [4, 9, 13, 12]
+DEBUG - Player: megaHertz   Hand: ['06D', '10C'], Has: [3, 9, 6, 12]
+DEBUG - Rickety Cricket gets 20
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=14.24, to_call=0, num_opps=3, chips=800, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 53.92   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 90.4   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=14.24, to_call=10, num_opps=2, chips=800, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11D', '09H', '13D']
+DEBUG - megaHertz's bet strategy: hand_str=15.98, to_call=0, num_opps=2, chips=790, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 73.47   Mininimum Bet = 0   Bet = 112
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=15.98, to_call=10, num_opps=2, chips=790, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11D', '09H', '13D', '14C']
+DEBUG - megaHertz's bet strategy: hand_str=21.17, to_call=0, num_opps=2, chips=780, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 96.6   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['11D', '09H', '13D', '14C', '05S']
+DEBUG - megaHertz's bet strategy: hand_str=14.96, to_call=0, num_opps=2, chips=780, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 96.15   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['07D', '02S'], Has: [1, 14, 13, 11, 9, 7]
+DEBUG - Player: Rickety Cricket   Hand: ['09S', '14H'], Has: [3, 14, 9, 13]
+DEBUG - Rickety Cricket gets 35
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 90.4   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=15.2, to_call=5, num_opps=3, chips=775, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 84.64   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['02S', '08C', '10D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 57.63   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=10.55, to_call=0, num_opps=3, chips=770, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 52.2   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['02S', '08C', '10D', '02H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 60.11   Mininimum Bet = 0   Bet = 58
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=14.37, to_call=20, num_opps=3, chips=770, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 58.98   Mininimum Bet = 20   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['02S', '08C', '10D', '02H', '11S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 48.15   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=14.96, to_call=0, num_opps=2, chips=750, in_pot=30
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['09D', '14S'], Has: [2, 2, 14, 11, 10]
+DEBUG - Player: megaHertz   Hand: ['03C', '07H'], Has: [2, 2, 11, 10, 8]
+DEBUG - Rickety Cricket gets 40
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 63.2   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 7.84   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=48.16, to_call=10, num_opps=2, chips=750, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['10S', '05H', '14S']
+DEBUG - Player = Franquito   Hand Strength = 46.4   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=33.36, to_call=0, num_opps=2, chips=740, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10S', '05H', '14S', '03H']
+DEBUG - Player = Franquito   Hand Strength = 35.54   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=23.82, to_call=0, num_opps=2, chips=740, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10S', '05H', '14S', '03H', '05S']
+DEBUG - Player = Franquito   Hand Strength = 35.7   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=28.1, to_call=0, num_opps=2, chips=740, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['08H', '12D'], Has: [2, 5, 14, 12, 10]
+DEBUG - Player: megaHertz   Hand: ['04S', '11C'], Has: [2, 5, 14, 11, 10]
+DEBUG - Franquito gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=36.32, to_call=0, num_opps=3, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - Player = Rickety Cricket   Hand Strength = 37.28   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - ON TABLE: ['13D', '11C', '02H']
+DEBUG - megaHertz's bet strategy: hand_str=69.67, to_call=0, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 91.13   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['13D', '11C', '02H', '08H']
+DEBUG - megaHertz's bet strategy: hand_str=58.7, to_call=0, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 88.94   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['13D', '11C', '02H', '08H', '06D']
+DEBUG - megaHertz's bet strategy: hand_str=48.25, to_call=0, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 86.47   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['02D', '10S'], Has: [2, 2, 13, 11, 10]
+DEBUG - Player: Franquito   Hand: ['13C', '04H'], Has: [2, 13, 11, 8, 6]
+DEBUG - Franquito gets 10
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 3.68   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=25.12, to_call=5, num_opps=3, chips=725, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 3.68   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=25.12, to_call=10, num_opps=2, chips=720, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11S', '11D', '09D']
+DEBUG - megaHertz's bet strategy: hand_str=28.29, to_call=0, num_opps=2, chips=710, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 67.04   Mininimum Bet = 0   Bet = 101
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=28.29, to_call=10, num_opps=2, chips=710, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11S', '11D', '09D', '10H']
+DEBUG - megaHertz's bet strategy: hand_str=95.56, to_call=0, num_opps=2, chips=700, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 56.71   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['11S', '11D', '09D', '10H', '14C']
+DEBUG - megaHertz's bet strategy: hand_str=94.47, to_call=0, num_opps=2, chips=700, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 84.4   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['07C', '08D'], Has: [5, 11]
+DEBUG - Player: Franquito   Hand: ['14S', '04D'], Has: [3, 14, 11, 10]
+DEBUG - megaHertz gets 40
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 46.24   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 58.4   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=27.68, to_call=10, num_opps=2, chips=770, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['03C', '09C', '13D']
+DEBUG - Player = Franquito   Hand Strength = 31.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=78.18, to_call=0, num_opps=2, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03C', '09C', '13D', '08H']
+DEBUG - Player = Franquito   Hand Strength = 23.82   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=76.56, to_call=0, num_opps=2, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03C', '09C', '13D', '08H', '10C']
+DEBUG - Player = Franquito   Hand Strength = 98.22   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=60.49, to_call=0, num_opps=2, chips=760, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['02C', '11C'], Has: [6, 11, 10, 9, 3, 2]
+DEBUG - Player: megaHertz   Hand: ['02D', '09H'], Has: [2, 9, 13, 10, 8]
+DEBUG - Franquito gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=66.08, to_call=0, num_opps=3, chips=750, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 17.12   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 69.92   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - ON TABLE: ['11D', '09S', '14S']
+DEBUG - megaHertz's bet strategy: hand_str=85.33, to_call=0, num_opps=2, chips=750, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 52.2   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['11D', '09S', '14S', '08C']
+DEBUG - megaHertz's bet strategy: hand_str=80.62, to_call=0, num_opps=2, chips=750, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 45.37   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['11D', '09S', '14S', '08C', '08D']
+DEBUG - megaHertz's bet strategy: hand_str=74.62, to_call=0, num_opps=2, chips=750, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 48.54   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['12H', '11H'], Has: [3, 11, 8, 14]
+DEBUG - Player: Rickety Cricket   Hand: ['02D', '13D'], Has: [2, 8, 14, 13, 11]
+DEBUG - megaHertz gets 15
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 18.08   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=69.92, to_call=5, num_opps=3, chips=770, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 33.44   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['14H', '09H', '11D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 20.33   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=52.2, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['14H', '09H', '11D', '11S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 21.17   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=61.25, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['14H', '09H', '11D', '11S', '02H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 13.98   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=59.31, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['07D', '06S'], Has: [2, 11, 14, 9, 7]
+DEBUG - Player: megaHertz   Hand: ['13C', '02C'], Has: [3, 11, 2, 14]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 5.92   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 84.64   Mininimum Bet = 5   Bet = 5
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=62.24, to_call=10, num_opps=3, chips=785, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['06S', '12S', '10D']
+DEBUG - Player = Franquito   Hand Strength = 6.56   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 53.28   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=92.76, to_call=0, num_opps=3, chips=775, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06S', '12S', '10D', '13S']
+DEBUG - Player = Franquito   Hand Strength = 97.45   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 41.68   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=74.2, to_call=0, num_opps=3, chips=775, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06S', '12S', '10D', '13S', '02H']
+DEBUG - Player = Franquito   Hand Strength = 97.33   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 32.44   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=70.77, to_call=0, num_opps=3, chips=775, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['05S', '02S'], Has: [6, 13, 12, 6, 5, 2]
+DEBUG - Player: Rickety Cricket   Hand: ['03D', '14D'], Has: [1, 14, 13, 12, 10, 6]
+DEBUG - Player: megaHertz   Hand: ['07C', '12H'], Has: [2, 12, 13, 10, 7]
+DEBUG - Franquito gets 20
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=7.84, to_call=0, num_opps=3, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 78.56   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - Player = Rickety Cricket   Hand Strength = 36.32   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - ON TABLE: ['04H', '05S', '05H']
+DEBUG - megaHertz's bet strategy: hand_str=100.0, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 59.8   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['04H', '05S', '05H', '03S']
+DEBUG - megaHertz's bet strategy: hand_str=100.0, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 46.5   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['04H', '05S', '05H', '03S', '11D']
+DEBUG - megaHertz's bet strategy: hand_str=99.41, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 83.7   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['04C', '05C'], Has: [7, 5, 4]
+DEBUG - Player: Franquito   Hand: ['11C', '13C'], Has: [3, 11, 5, 13]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 16.16   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=5, num_opps=3, chips=780, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 41.12   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['09H', '03C', '02H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 6.56   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=33.36, to_call=0, num_opps=2, chips=775, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['09H', '03C', '02H', '10H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 6.43   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=24.67, to_call=0, num_opps=2, chips=775, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['09H', '03C', '02H', '10H', '08S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 6.67   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=16.15, to_call=0, num_opps=2, chips=775, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['04C', '07S'], Has: [1, 10, 9, 8, 7, 4]
+DEBUG - Player: megaHertz   Hand: ['12H', '06C'], Has: [1, 12, 10, 9, 8, 6]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 28.64   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 25.12   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=10, num_opps=2, chips=795, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['10S', '07H', '04C']
+DEBUG - Player = Franquito   Hand Strength = 17.07   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=34.45, to_call=0, num_opps=2, chips=785, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10S', '07H', '04C', '04S']
+DEBUG - Player = Franquito   Hand Strength = 20.04   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=35.92, to_call=0, num_opps=2, chips=785, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10S', '07H', '04C', '04S', '05C']
+DEBUG - Player = Franquito   Hand Strength = 11.01   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=24.84, to_call=0, num_opps=2, chips=785, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['09C', '03S'], Has: [2, 4, 10, 9, 7]
+DEBUG - Player: megaHertz   Hand: ['12C', '06S'], Has: [2, 4, 12, 10, 7]
+DEBUG - megaHertz gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=99.52, to_call=0, num_opps=3, chips=800, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 36.32   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 53.92   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz gets 5
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 5.92   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=52.96, to_call=5, num_opps=3, chips=810, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 37.28   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['10C', '11S', '07C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 6.56   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=92.58, to_call=0, num_opps=2, chips=805, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10C', '11S', '07C', '08C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 8.51   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=95.46, to_call=0, num_opps=2, chips=805, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10C', '11S', '07C', '08C', '03S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 5.19   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=95.26, to_call=0, num_opps=2, chips=805, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['05D', '02H'], Has: [1, 11, 10, 8, 7, 5]
+DEBUG - Player: megaHertz   Hand: ['11D', '09C'], Has: [5, 11]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 31.52   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 50.08   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=38.24, to_call=10, num_opps=2, chips=825, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14S', '02C', '02S']
+DEBUG - Player = Franquito   Hand Strength = 26.12   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=32.28, to_call=0, num_opps=2, chips=815, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['14S', '02C', '02S', '08C']
+DEBUG - Player = Franquito   Hand Strength = 21.17   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=28.36, to_call=0, num_opps=2, chips=815, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['14S', '02C', '02S', '08C', '03C']
+DEBUG - Player = Franquito   Hand Strength = 12.89   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=95.06, to_call=0, num_opps=2, chips=815, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['09S', '06C'], Has: [2, 2, 14, 9, 8]
+DEBUG - Player: megaHertz   Hand: ['04C', '10C'], Has: [6, 10, 8, 4, 3, 2]
+DEBUG - megaHertz gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=58.4, to_call=0, num_opps=3, chips=830, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 90.4   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 36.32   Mininimum Bet = 20   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=58.4, to_call=10, num_opps=2, chips=830, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['12S', '09S', '13S']
+DEBUG - megaHertz's bet strategy: hand_str=75.92, to_call=0, num_opps=2, chips=820, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 70.3   Mininimum Bet = 0   Bet = 200
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=75.92, to_call=10, num_opps=2, chips=820, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['12S', '09S', '13S', '09C']
+DEBUG - megaHertz's bet strategy: hand_str=73.44, to_call=0, num_opps=2, chips=810, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 94.05   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['12S', '09S', '13S', '09C', '03C']
+DEBUG - megaHertz's bet strategy: hand_str=72.64, to_call=0, num_opps=2, chips=810, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 93.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['12H', '03S'], Has: [3, 12, 9, 13]
+DEBUG - Player: Franquito   Hand: ['09H', '14S'], Has: [4, 9, 14, 13]
+DEBUG - Franquito gets 30
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 52.0   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=85.6, to_call=5, num_opps=3, chips=805, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 77.6   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['09C', '08S', '10C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 68.58   Mininimum Bet = 0   Bet = 56
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=50.02, to_call=10, num_opps=3, chips=800, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 90.49   Mininimum Bet = 10   Bet = 30
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 68.58   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=50.02, to_call=10, num_opps=3, chips=790, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['09C', '08S', '10C', '04D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 66.92   Mininimum Bet = 0   Bet = 55
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=56.81, to_call=20, num_opps=3, chips=780, in_pot=30
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 87.52   Mininimum Bet = 20   Bet = 60
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 66.92   Mininimum Bet = 20   Bet = 20
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=56.81, to_call=20, num_opps=3, chips=760, in_pot=50
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['09C', '08S', '10C', '04D', '08H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 93.09   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=59.31, to_call=0, num_opps=3, chips=740, in_pot=70
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 82.52   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['11S', '08C'], Has: [4, 8, 11, 10]
+DEBUG - Player: megaHertz   Hand: ['14D', '04S'], Has: [3, 8, 4, 14]
+DEBUG - Player: Franquito   Hand: ['13H', '10S'], Has: [3, 10, 8, 13]
+DEBUG - Rickety Cricket gets 140
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 76.64   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 43.04   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=96.16, to_call=10, num_opps=2, chips=740, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02S', '14C', '08H']
+DEBUG - Player = Franquito   Hand Strength = 57.63   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=72.84, to_call=0, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02S', '14C', '08H', '02H']
+DEBUG - Player = Franquito   Hand Strength = 60.11   Mininimum Bet = 0   Bet = 98
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=65.22, to_call=20, num_opps=2, chips=730, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02S', '14C', '08H', '02H', '05S']
+DEBUG - Player = Franquito   Hand Strength = 47.75   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=62.57, to_call=0, num_opps=2, chips=710, in_pot=30
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['09C', '13D'], Has: [2, 2, 14, 13, 9]
+DEBUG - Player: megaHertz   Hand: ['06C', '06S'], Has: [3, 6, 2, 14]
+DEBUG - megaHertz gets 35
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=85.6, to_call=0, num_opps=3, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 77.6   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - Player = Rickety Cricket   Hand Strength = 36.32   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - ON TABLE: ['05C', '02D', '07D']
+DEBUG - megaHertz's bet strategy: hand_str=53.28, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 46.4   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['05C', '02D', '07D', '08D']
+DEBUG - megaHertz's bet strategy: hand_str=39.22, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 31.76   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['05C', '02D', '07D', '08D', '03S']
+DEBUG - megaHertz's bet strategy: hand_str=93.78, to_call=0, num_opps=2, chips=765, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 23.56   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['04D', '14H'], Has: [5, 5]
+DEBUG - Player: Franquito   Hand: ['13S', '10C'], Has: [1, 13, 10, 8, 7, 5]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 10.4   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=97.6, to_call=5, num_opps=3, chips=780, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 47.2   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['14D', '05C', '06C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 77.27   Mininimum Bet = 0   Bet = 126
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=84.25, to_call=10, num_opps=2, chips=775, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14D', '05C', '06C', '08H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 63.99   Mininimum Bet = 0   Bet = 62
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=79.58, to_call=20, num_opps=2, chips=765, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14D', '05C', '06C', '08H', '14H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 68.2   Mininimum Bet = 0   Bet = 61
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=85.78, to_call=20, num_opps=2, chips=745, in_pot=40
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['03S', '06D'], Has: [3, 14, 6, 8]
+DEBUG - Player: megaHertz   Hand: ['09D', '09S'], Has: [3, 14, 9, 8]
+DEBUG - megaHertz gets 60
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 87.52   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 12.32   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=63.2, to_call=10, num_opps=2, chips=845, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['13D', '13H', '09S']
+DEBUG - Player = Franquito   Hand Strength = 69.22   Mininimum Bet = 0   Bet = 96
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=58.71, to_call=10, num_opps=2, chips=835, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['13D', '13H', '09S', '12D']
+DEBUG - Player = Franquito   Hand Strength = 59.74   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=86.86, to_call=0, num_opps=2, chips=825, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['13D', '13H', '09S', '12D', '04C']
+DEBUG - Player = Franquito   Hand Strength = 48.94   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=86.17, to_call=0, num_opps=2, chips=825, in_pot=20
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['14D', '06H'], Has: [2, 13, 14, 12, 9]
+DEBUG - Player: megaHertz   Hand: ['12H', '08C'], Has: [3, 13, 12, 9]
+DEBUG - megaHertz gets 25
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=25.12, to_call=0, num_opps=3, chips=860, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 59.36   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 59.36   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz gets 5
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 25.12   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=63.2, to_call=5, num_opps=3, chips=870, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 99.52   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 25.12   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=63.2, to_call=10, num_opps=2, chips=865, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['05H', '02C', '10S']
+DEBUG - megaHertz's bet strategy: hand_str=35.54, to_call=0, num_opps=2, chips=855, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 96.2   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['05H', '02C', '10S', '08S']
+DEBUG - megaHertz's bet strategy: hand_str=80.81, to_call=0, num_opps=2, chips=855, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 93.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['05H', '02C', '10S', '08S', '03S']
+DEBUG - megaHertz's bet strategy: hand_str=71.16, to_call=0, num_opps=2, chips=855, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 81.73   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['08C', '12S'], Has: [2, 8, 12, 10, 5]
+DEBUG - Player: Franquito   Hand: ['13C', '13D'], Has: [2, 13, 10, 8, 5]
+DEBUG - Franquito gets 30
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 7.84   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 21.28   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=18.08, to_call=10, num_opps=2, chips=855, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['03S', '09S', '08H']
+DEBUG - Player = Franquito   Hand Strength = 5.12   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=13.81, to_call=0, num_opps=2, chips=845, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03S', '09S', '08H', '07D']
+DEBUG - Player = Franquito   Hand Strength = 5.29   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=64.56, to_call=0, num_opps=2, chips=845, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03S', '09S', '08H', '07D', '04C']
+DEBUG - Player = Franquito   Hand Strength = 51.31   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=61.78, to_call=0, num_opps=2, chips=845, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['05H', '04H'], Has: [2, 4, 9, 8, 7]
+DEBUG - Player: megaHertz   Hand: ['07S', '06S'], Has: [2, 7, 9, 8, 6]
+DEBUG - megaHertz gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=23.2, to_call=0, num_opps=3, chips=860, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 10.4   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 25.12   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz gets 5
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 72.8   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=78.56, to_call=5, num_opps=3, chips=870, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 7.84   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['03D', '07H', '06D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 42.06   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=46.04, to_call=0, num_opps=2, chips=865, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03D', '07H', '06D', '06S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 43.86   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=48.02, to_call=0, num_opps=2, chips=865, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03D', '07H', '06D', '06S', '08S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 32.35   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=35.11, to_call=0, num_opps=2, chips=865, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['13C', '05C'], Has: [2, 6, 13, 8, 7]
+DEBUG - Player: megaHertz   Hand: ['11H', '13D'], Has: [2, 6, 13, 11, 8]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 75.68   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 11.36   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=94.24, to_call=10, num_opps=2, chips=885, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11C', '09H', '09S']
+DEBUG - Player = Franquito   Hand Strength = 58.71   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=74.65, to_call=0, num_opps=2, chips=875, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11C', '09H', '09S', '04C']
+DEBUG - Player = Franquito   Hand Strength = 48.39   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=63.52, to_call=0, num_opps=2, chips=875, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11C', '09H', '09S', '04C', '03C']
+DEBUG - Player = Franquito   Hand Strength = 36.1   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=97.23, to_call=0, num_opps=2, chips=875, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['13H', '08D'], Has: [2, 9, 13, 11, 8]
+DEBUG - Player: megaHertz   Hand: ['14C', '13C'], Has: [6, 14, 13, 11, 4, 3]
+DEBUG - megaHertz gets 15
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=91.36, to_call=0, num_opps=3, chips=890, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 87.52   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 52.0   Mininimum Bet = 20   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=91.36, to_call=10, num_opps=2, chips=890, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['03S', '14D', '08D']
+DEBUG - megaHertz's bet strategy: hand_str=95.29, to_call=0, num_opps=2, chips=880, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 93.12   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['03S', '14D', '08D', '04S']
+DEBUG - megaHertz's bet strategy: hand_str=91.02, to_call=0, num_opps=2, chips=880, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 88.75   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['03S', '14D', '08D', '04S', '09C']
+DEBUG - megaHertz's bet strategy: hand_str=87.06, to_call=0, num_opps=2, chips=880, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 85.48   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['14H', '10S'], Has: [2, 14, 10, 9, 8]
+DEBUG - Player: Franquito   Hand: ['14S', '06C'], Has: [2, 14, 9, 8, 6]
+DEBUG - megaHertz gets 20
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 94.24   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=62.24, to_call=5, num_opps=3, chips=915, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 17.12   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['06D', '07C', '02C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 99.46   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=92.49, to_call=0, num_opps=2, chips=910, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06D', '07C', '02C', '10C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 93.48   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=74.57, to_call=0, num_opps=2, chips=910, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['06D', '07C', '02C', '10C', '03D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.41   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=69.68, to_call=0, num_opps=2, chips=910, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['02S', '02D'], Has: [4, 2, 10, 7]
+DEBUG - Player: megaHertz   Hand: ['07H', '12S'], Has: [2, 7, 12, 10, 6]
+DEBUG - Rickety Cricket gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 52.96   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 72.8   Mininimum Bet = 5   Bet = 5
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=77.6, to_call=10, num_opps=3, chips=910, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02D', '03H', '05D']
+DEBUG - Player = Franquito   Hand Strength = 25.76   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 89.23   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=44.95, to_call=0, num_opps=3, chips=900, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['02D', '03H', '05D', '12C']
+DEBUG - Player = Franquito   Hand Strength = 26.84   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 76.84   Mininimum Bet = 0   Bet = 118
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=36.67, to_call=20, num_opps=3, chips=900, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 26.84   Mininimum Bet = 20   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['02D', '03H', '05D', '12C', '10D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 62.27   Mininimum Bet = 0   Bet = 58
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=73.04, to_call=20, num_opps=2, chips=880, in_pot=30
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['13D', '05H'], Has: [2, 5, 13, 12, 10]
+DEBUG - Player: megaHertz   Hand: ['13S', '10H'], Has: [2, 10, 13, 12, 5]
+DEBUG - megaHertz gets 60
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=16.16, to_call=0, num_opps=3, chips=960, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 71.84   Mininimum Bet = 5   Bet = 5
+INFO - Franquito calls.
+DEBUG - Player = Rickety Cricket   Hand Strength = 75.68   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - ON TABLE: ['10H', '08D', '03H']
+DEBUG - megaHertz's bet strategy: hand_str=11.63, to_call=0, num_opps=3, chips=960, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 42.06   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 83.7   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['10H', '08D', '03H', '13C']
+DEBUG - megaHertz's bet strategy: hand_str=12.1, to_call=0, num_opps=3, chips=960, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 88.94   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 98.68   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['10H', '08D', '03H', '13C', '12D']
+DEBUG - megaHertz's bet strategy: hand_str=14.96, to_call=0, num_opps=3, chips=960, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 84.89   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 94.57   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['07H', '04D'], Has: [1, 13, 12, 10, 8, 7]
+DEBUG - Player: Franquito   Hand: ['04H', '13H'], Has: [2, 13, 12, 10, 8]
+DEBUG - Player: Rickety Cricket   Hand: ['13S', '08C'], Has: [3, 13, 8, 12]
+DEBUG - Rickety Cricket gets 20
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 27.68   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=39.2, to_call=5, num_opps=3, chips=955, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 64.16   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['14S', '13H', '14C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 31.19   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=44.23, to_call=0, num_opps=3, chips=950, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 72.48   Mininimum Bet = 0   Bet = 187
+INFO - Franquito bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 31.19   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=44.23, to_call=10, num_opps=2, chips=950, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14S', '13H', '14C', '06H']
+DEBUG - megaHertz's bet strategy: hand_str=35.92, to_call=0, num_opps=2, chips=940, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 61.25   Mininimum Bet = 0   Bet = 93
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=35.92, to_call=20, num_opps=2, chips=940, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14S', '13H', '14C', '06H', '13S']
+DEBUG - megaHertz's bet strategy: hand_str=54.07, to_call=0, num_opps=2, chips=920, in_pot=40
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 82.91   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['05H', '10D'], Has: [3, 14, 13, 10]
+DEBUG - Player: Franquito   Hand: ['09H', '12S'], Has: [3, 14, 13, 12]
+DEBUG - Franquito gets 50
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 96.64   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 49.12   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=40.16, to_call=10, num_opps=2, chips=920, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11S', '11H', '05S']
+DEBUG - Player = Franquito   Hand Strength = 88.23   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=34.45, to_call=0, num_opps=2, chips=910, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11S', '11H', '05S', '13D']
+DEBUG - Player = Franquito   Hand Strength = 76.56   Mininimum Bet = 0   Bet = 192
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=35.92, to_call=20, num_opps=2, chips=910, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11S', '11H', '05S', '13D', '12D']
+DEBUG - Player = Franquito   Hand Strength = 62.17   Mininimum Bet = 0   Bet = 95
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=39.85, to_call=20, num_opps=2, chips=890, in_pot=30
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['07D', '07C'], Has: [3, 11, 7, 13]
+DEBUG - Player: megaHertz   Hand: ['06S', '10S'], Has: [2, 11, 13, 12, 10]
+DEBUG - Franquito gets 55
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=36.32, to_call=0, num_opps=3, chips=860, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 93.28   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 32.48   Mininimum Bet = 20   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=36.32, to_call=10, num_opps=2, chips=860, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['06S', '03C', '07D']
+DEBUG - megaHertz's bet strategy: hand_str=14.53, to_call=0, num_opps=2, chips=850, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 58.35   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['06S', '03C', '07D', '04C']
+DEBUG - megaHertz's bet strategy: hand_str=6.81, to_call=0, num_opps=2, chips=850, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 38.19   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['06S', '03C', '07D', '04C', '14S']
+DEBUG - megaHertz's bet strategy: hand_str=7.06, to_call=0, num_opps=2, chips=850, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 73.43   Mininimum Bet = 0   Bet = 196
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=7.06, to_call=20, num_opps=2, chips=850, in_pot=20
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['10S', '02D'], Has: [1, 14, 10, 7, 6, 4]
+DEBUG - Player: Franquito   Hand: ['14H', '12H'], Has: [2, 14, 12, 7, 6]
+DEBUG - Franquito gets 40
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 77.6   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=63.2, to_call=5, num_opps=3, chips=825, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 50.08   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['11S', '08S', '12C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 47.49   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=97.56, to_call=0, num_opps=2, chips=820, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11S', '08S', '12C', '06C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 38.19   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=97.16, to_call=0, num_opps=2, chips=820, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11S', '08S', '12C', '06C', '11H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 39.85   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=84.99, to_call=0, num_opps=2, chips=820, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['10C', '13H'], Has: [2, 11, 13, 12, 10]
+DEBUG - Player: megaHertz   Hand: ['08D', '12H'], Has: [3, 12, 11, 8]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 89.44   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 11.36   Mininimum Bet = 5   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=12.32, to_call=10, num_opps=2, chips=840, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['10C', '09D', '10S']
+DEBUG - Player = Franquito   Hand Strength = 71.39   Mininimum Bet = 0   Bet = 201
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=13.81, to_call=10, num_opps=2, chips=830, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['10C', '09D', '10S', '07H']
+DEBUG - Player = Franquito   Hand Strength = 57.84   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - megaHertz's bet strategy: hand_str=14.37, to_call=0, num_opps=2, chips=820, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['10C', '09D', '10S', '07H', '07S']
+DEBUG - Player = Franquito   Hand Strength = 66.91   Mininimum Bet = 0   Bet = 100
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=23.26, to_call=20, num_opps=2, chips=820, in_pot=20
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['14S', '08C'], Has: [3, 10, 7, 14]
+DEBUG - Player: megaHertz   Hand: ['06D', '05C'], Has: [3, 10, 7, 9]
+DEBUG - Franquito gets 45
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=14.24, to_call=0, num_opps=3, chips=790, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 46.24   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 95.2   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=14.24, to_call=10, num_opps=2, chips=790, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['03C', '09H', '10S']
+DEBUG - megaHertz's bet strategy: hand_str=10.55, to_call=0, num_opps=2, chips=780, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 71.75   Mininimum Bet = 0   Bet = 111
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=10.55, to_call=10, num_opps=2, chips=780, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['03C', '09H', '10S', '07C']
+DEBUG - megaHertz's bet strategy: hand_str=63.04, to_call=0, num_opps=2, chips=770, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 57.84   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - ON TABLE: ['03C', '09H', '10S', '07C', '05C']
+DEBUG - megaHertz's bet strategy: hand_str=57.73, to_call=0, num_opps=2, chips=770, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 44.69   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['02S', '07H'], Has: [2, 7, 10, 9, 5]
+DEBUG - Player: Rickety Cricket   Hand: ['04C', '04H'], Has: [2, 4, 10, 9, 7]
+DEBUG - megaHertz gets 35
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 7.84   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=52.0, to_call=5, num_opps=3, chips=830, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 75.68   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['14D', '06H', '14S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 8.74   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=46.4, to_call=0, num_opps=3, chips=825, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 70.3   Mininimum Bet = 0   Bet = 205
+INFO - Franquito bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 8.74   Mininimum Bet = 10   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=46.4, to_call=10, num_opps=2, chips=825, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14D', '06H', '14S', '12D']
+DEBUG - megaHertz's bet strategy: hand_str=48.39, to_call=0, num_opps=2, chips=815, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 60.11   Mininimum Bet = 0   Bet = 102
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=48.39, to_call=20, num_opps=2, chips=815, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14D', '06H', '14S', '12D', '06C']
+DEBUG - megaHertz's bet strategy: hand_str=55.26, to_call=0, num_opps=2, chips=795, in_pot=40
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 68.69   Mininimum Bet = 0   Bet = 101
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=55.26, to_call=20, num_opps=2, chips=795, in_pot=40
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['11H', '08S'], Has: [3, 14, 6, 12]
+DEBUG - Player: Franquito   Hand: ['13S', '08H'], Has: [3, 14, 6, 13]
+DEBUG - Franquito gets 70
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 24.16   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 5   Bet = 10
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=15.2, to_call=20, num_opps=3, chips=775, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 24.16   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['11D', '10H', '04C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 85.51   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=11.63, to_call=0, num_opps=2, chips=755, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11D', '10H', '04C', '09S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 78.92   Mininimum Bet = 0   Bet = 107
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=12.1, to_call=20, num_opps=2, chips=755, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['11D', '10H', '04C', '09S', '02C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 75.6   Mininimum Bet = 0   Bet = 105
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=7.06, to_call=20, num_opps=2, chips=735, in_pot=40
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['14H', '10C'], Has: [2, 10, 14, 11, 9]
+DEBUG - Player: megaHertz   Hand: ['03H', '07C'], Has: [1, 11, 10, 9, 7, 4]
+DEBUG - Rickety Cricket gets 70
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=98.56, to_call=0, num_opps=3, chips=705, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 20   Bet = 40
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=98.56, to_call=20, num_opps=3, chips=705, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=98.56, to_call=20, num_opps=3, chips=685, in_pot=30
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=98.56, to_call=20, num_opps=3, chips=665, in_pot=50
+DEBUG - megaHertz folds.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 20
+INFO - Rickety Cricket raises.
+DEBUG - Player = Franquito   Hand Strength = 85.6   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 10   Bet = 10
+DEBUG - Rickety Cricket is all in!
+DEBUG - ON TABLE: ['05H', '05C', '08H']
+DEBUG - Player = Franquito   Hand Strength = 67.04   Mininimum Bet = 0   Bet = 48
+INFO - Franquito bets.
+DEBUG - ON TABLE: ['05H', '05C', '08H', '09S']
+DEBUG - Player = Franquito   Hand Strength = 57.47   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['05H', '05C', '08H', '09S', '07D']
+DEBUG - Player = Franquito   Hand Strength = 34.72   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['04C', '14H'], Has: [2, 5, 14, 9, 8]
+DEBUG - Player: Rickety Cricket   Hand: ['14D', '10C'], Has: [2, 5, 14, 10, 9]
+DEBUG - Rickety Cricket gets 1210
+DEBUG - Franquito gets 0
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 63.2   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=57.44, to_call=5, num_opps=3, chips=660, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 98.08   Mininimum Bet = 10   Bet = 20
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 63.2   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=57.44, to_call=10, num_opps=3, chips=655, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['07H', '13C', '12D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 83.43   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=79.81, to_call=0, num_opps=3, chips=645, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 75.01   Mininimum Bet = 0   Bet = 94
+INFO - Franquito bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 83.43   Mininimum Bet = 10   Bet = 30
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=79.81, to_call=20, num_opps=3, chips=645, in_pot=20
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 75.01   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['07H', '13C', '12D', '05S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 81.29   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=79.77, to_call=0, num_opps=3, chips=625, in_pot=40
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 73.35   Mininimum Bet = 0   Bet = 92
+INFO - Franquito bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 81.29   Mininimum Bet = 20   Bet = 60
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=79.77, to_call=40, num_opps=3, chips=625, in_pot=40
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 73.35   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['07H', '13C', '12D', '05S', '11S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 75.7   Mininimum Bet = 0   Bet = 229
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=74.91, to_call=20, num_opps=3, chips=585, in_pot=80
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 60.79   Mininimum Bet = 20   Bet = 20
+INFO - Franquito calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['12H', '08D'], Has: [2, 12, 13, 11, 8]
+DEBUG - Player: megaHertz   Hand: ['12C', '02C'], Has: [2, 12, 13, 11, 7]
+DEBUG - Player: Franquito   Hand: ['10S', '10H'], Has: [2, 10, 13, 12, 11]
+DEBUG - Rickety Cricket gets 200
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 78.56   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 85.6   Mininimum Bet = 5   Bet = 10
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=70.88, to_call=20, num_opps=3, chips=565, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 78.56   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['05H', '10D', '02H']
+DEBUG - Player = Franquito   Hand Strength = 47.49   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 53.28   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=40.97, to_call=0, num_opps=3, chips=545, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['05H', '10D', '02H', '13C']
+DEBUG - Player = Franquito   Hand Strength = 92.72   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 43.86   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=88.19, to_call=0, num_opps=3, chips=545, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['05H', '10D', '02H', '13C', '08C']
+DEBUG - Player = Franquito   Hand Strength = 88.84   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 35.11   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=85.68, to_call=0, num_opps=3, chips=545, in_pot=20
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['11H', '13D'], Has: [2, 13, 11, 10, 8]
+DEBUG - Player: Rickety Cricket   Hand: ['14S', '04H'], Has: [1, 14, 13, 10, 8, 5]
+DEBUG - Player: megaHertz   Hand: ['13S', '03S'], Has: [2, 13, 10, 8, 5]
+DEBUG - Franquito gets 40
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=38.24, to_call=0, num_opps=3, chips=535, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 50.08   Mininimum Bet = 5   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - Player = Rickety Cricket   Hand Strength = 74.72   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - ON TABLE: ['14C', '07C', '08C']
+DEBUG - megaHertz's bet strategy: hand_str=23.4, to_call=0, num_opps=2, chips=535, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 70.57   Mininimum Bet = 0   Bet = 254
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=23.4, to_call=10, num_opps=2, chips=535, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14C', '07C', '08C', '04D']
+DEBUG - megaHertz's bet strategy: hand_str=53.69, to_call=0, num_opps=2, chips=525, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 67.58   Mininimum Bet = 0   Bet = 126
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=53.69, to_call=20, num_opps=2, chips=525, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14C', '07C', '08C', '04D', '02H']
+DEBUG - megaHertz's bet strategy: hand_str=50.22, to_call=0, num_opps=2, chips=505, in_pot=40
+INFO - megaHertz checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 63.56   Mininimum Bet = 0   Bet = 125
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=50.22, to_call=20, num_opps=2, chips=505, in_pot=40
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['10D', '04S'], Has: [2, 4, 14, 10, 8]
+DEBUG - Player: Rickety Cricket   Hand: ['13C', '07D'], Has: [2, 7, 14, 13, 8]
+DEBUG - Rickety Cricket gets 65
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 63.2   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=61.28, to_call=5, num_opps=3, chips=480, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 75.68   Mininimum Bet = 10   Bet = 10
+INFO - Franquito calls.
+DEBUG - ON TABLE: ['11H', '12H', '14S']
+DEBUG - Player = Rickety Cricket   Hand Strength = 82.71   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=81.26, to_call=0, num_opps=3, chips=475, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 58.71   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - ON TABLE: ['11H', '12H', '14S', '03H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 77.98   Mininimum Bet = 0   Bet = 260
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=75.71, to_call=20, num_opps=3, chips=475, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 45.18   Mininimum Bet = 20   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['11H', '12H', '14S', '03H', '14C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 85.09   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=84.3, to_call=0, num_opps=2, chips=455, in_pot=30
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['08H', '12S'], Has: [3, 14, 12, 11]
+DEBUG - Player: megaHertz   Hand: ['06C', '12D'], Has: [3, 14, 12, 11]
+DEBUG - Rickety Cricket gets 25
+DEBUG - megaHertz gets 0
+DEBUG - megaHertz gets 0
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 59.36   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 91.36   Mininimum Bet = 5   Bet = 10
+INFO - Rickety Cricket raises.
+DEBUG - megaHertz's bet strategy: hand_str=27.68, to_call=20, num_opps=3, chips=470, in_pot=0
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 59.36   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['03S', '07D', '13C']
+DEBUG - Player = Rickety Cricket   Hand Strength = 58.71   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=15.98, to_call=0, num_opps=2, chips=450, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03S', '07D', '13C', '04H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 46.88   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=9.45, to_call=0, num_opps=2, chips=450, in_pot=20
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['03S', '07D', '13C', '04H', '14H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 86.27   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=8.64, to_call=0, num_opps=2, chips=450, in_pot=20
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['14C', '10H'], Has: [2, 14, 13, 10, 7]
+DEBUG - Player: megaHertz   Hand: ['09C', '02C'], Has: [1, 14, 13, 9, 7, 4]
+DEBUG - Rickety Cricket gets 30
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=53.92, to_call=0, num_opps=3, chips=440, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 97.6   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 29.6   Mininimum Bet = 20   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=53.92, to_call=10, num_opps=2, chips=440, in_pot=10
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14H', '10C', '12C']
+DEBUG - megaHertz's bet strategy: hand_str=73.65, to_call=0, num_opps=2, chips=430, in_pot=20
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 63.24   Mininimum Bet = 0   Bet = 43
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=73.65, to_call=10, num_opps=2, chips=430, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14H', '10C', '12C', '08S']
+DEBUG - megaHertz's bet strategy: hand_str=71.08, to_call=0, num_opps=2, chips=420, in_pot=30
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 61.44   Mininimum Bet = 0   Bet = 42
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=71.08, to_call=20, num_opps=2, chips=420, in_pot=30
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['14H', '10C', '12C', '08S', '08D']
+DEBUG - megaHertz's bet strategy: hand_str=64.64, to_call=0, num_opps=2, chips=400, in_pot=50
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 54.07   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: megaHertz   Hand: ['11S', '10D'], Has: [3, 10, 8, 14]
+DEBUG - Player: Franquito   Hand: ['09S', '09D'], Has: [3, 9, 8, 14]
+DEBUG - megaHertz gets 50
+DEBUG - DEALING
+DEBUG - Player = Rickety Cricket   Hand Strength = 58.4   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=90.4, to_call=5, num_opps=3, chips=495, in_pot=5
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 33.44   Mininimum Bet = 10   Bet = 0
+DEBUG - Franquito folds.
+DEBUG - ON TABLE: ['11D', '13C', '05H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 42.06   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=58.71, to_call=0, num_opps=2, chips=490, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11D', '13C', '05H', '05D']
+DEBUG - Player = Rickety Cricket   Hand Strength = 50.66   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=62.38, to_call=0, num_opps=2, chips=490, in_pot=10
+INFO - megaHertz checks.
+DEBUG - ON TABLE: ['11D', '13C', '05H', '05D', '10H']
+DEBUG - Player = Rickety Cricket   Hand Strength = 39.85   Mininimum Bet = 0   Bet = 0
+INFO - Rickety Cricket checks.
+DEBUG - megaHertz's bet strategy: hand_str=50.52, to_call=0, num_opps=2, chips=490, in_pot=10
+INFO - megaHertz checks.
+DEBUG - SHOWDOWN
+DEBUG - Player: Rickety Cricket   Hand: ['12H', '03H'], Has: [2, 5, 13, 12, 11]
+DEBUG - Player: megaHertz   Hand: ['14H', '09C'], Has: [2, 5, 14, 13, 11]
+DEBUG - megaHertz gets 10
+DEBUG - DEALING
+DEBUG - Player = Franquito   Hand Strength = 52.0   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 83.68   Mininimum Bet = 5   Bet = 5
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=47.2, to_call=10, num_opps=3, chips=510, in_pot=0
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02D', '08C', '05H']
+DEBUG - Player = Franquito   Hand Strength = 92.3   Mininimum Bet = 0   Bet = 0
+INFO - Franquito checks.
+DEBUG - Player = Rickety Cricket   Hand Strength = 71.12   Mininimum Bet = 0   Bet = 265
+INFO - Rickety Cricket bets.
+DEBUG - megaHertz's bet strategy: hand_str=22.86, to_call=10, num_opps=3, chips=500, in_pot=10
+INFO - megaHertz calls.
+DEBUG - Player = Franquito   Hand Strength = 92.3   Mininimum Bet = 10   Bet = 30
+INFO - Franquito raises.
+DEBUG - Player = Rickety Cricket   Hand Strength = 71.12   Mininimum Bet = 10   Bet = 10
+INFO - Rickety Cricket calls.
+DEBUG - megaHertz's bet strategy: hand_str=22.86, to_call=10, num_opps=3, chips=490, in_pot=20
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02D', '08C', '05H', '09D']
+DEBUG - Player = Franquito   Hand Strength = 78.54   Mininimum Bet = 0   Bet = 80
+INFO - Franquito bets.
+DEBUG - Player = Rickety Cricket   Hand Strength = 58.7   Mininimum Bet = 20   Bet = 0
+DEBUG - Rickety Cricket folds.
+DEBUG - megaHertz's bet strategy: hand_str=15.12, to_call=20, num_opps=2, chips=480, in_pot=30
+INFO - megaHertz calls.
+DEBUG - ON TABLE: ['02D', '08C', '05H', '09D', '13C']
+DEBUG - Player = Franquito   Hand Strength = 67.41   Mininimum Bet = 0   Bet = 39
+INFO - Franquito bets.
+DEBUG - megaHertz's bet strategy: hand_str=16.94, to_call=20, num_opps=2, chips=460, in_pot=50
+INFO - megaHertz calls.
+DEBUG - SHOWDOWN
+DEBUG - Player: Franquito   Hand: ['11H', '08H'], Has: [2, 8, 13, 11, 9]
+DEBUG - Player: megaHertz   Hand: ['11C', '03C'], Has: [1, 13, 11, 9, 8, 5]
+DEBUG - Franquito gets 100
+DEBUG - DEALING
+DEBUG - megaHertz's bet strategy: hand_str=42.08, to_call=0, num_opps=3, chips=430, in_pot=10
+INFO - megaHertz checks.
+DEBUG - Player = Franquito   Hand Strength = 94.24   Mininimum Bet = 5   Bet = 10
+INFO - Franquito raises.
